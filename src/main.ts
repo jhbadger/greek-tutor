@@ -31,20 +31,6 @@ function route(): void {
   window.scrollTo(0, 0);
 }
 
-// Suppress iOS's long-press selection/callout bar on repeatedly-tapped
-// controls; must be a non-passive touchstart listener (preventDefault on
-// pointerdown does not suppress it), scoped to the whole layout since the
-// callout belongs to whichever element receives the tap.
-document.addEventListener(
-  'touchstart',
-  (e) => {
-    if ((e.target as HTMLElement | null)?.closest('button, a')) {
-      e.preventDefault();
-    }
-  },
-  { passive: false },
-);
-
 window.addEventListener('hashchange', route);
 route();
 registerServiceWorker();
