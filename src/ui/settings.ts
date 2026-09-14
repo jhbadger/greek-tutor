@@ -8,6 +8,8 @@ import {
   listMicrophones,
   requestMicPermission,
 } from '../lib/stt';
+import { getSttBackend, getSttBackendOverride, setSttBackend, isAndroid } from '../lib/sttBackend';
+import { webSpeechAvailable } from '../lib/webSpeechClient';
 import { escapeHtml } from './util';
 
 export function renderSettings(root: HTMLElement): void {
@@ -17,6 +19,18 @@ export function renderSettings(root: HTMLElement): void {
       <h1>Settings</h1>
     </header>
     <div class="scroll">
+      <label class="field">
+        <span>Speech recognition</span>
+        <select id="stt-backend">
+          <option value="auto">Auto (${isAndroid() ? 'browser, cloud' : 'whisper, local'})</option>
+          <option value="whisper">Whisper (local server)</option>
+          <option value="webspeech" ${webSpeechAvailable() ? '' : 'disabled'}>
+            Browser (cloud)${webSpeechAvailable() ? '' : ' — not supported here'}
+          </option>
+        </select>
+      </label>
+      <p id="stt-status" class="hint"></p>
+      <hr />
       <label class="field">
         <span>Whisper server URL</span>
         <input id="whisper-url" type="text" value="${getWhisperUrl()}" autocapitalize="off" autocorrect="off" spellcheck="false" />
@@ -29,11 +43,28 @@ export function renderSettings(root: HTMLElement): void {
       <p id="voice-status" class="hint">Checking for a Greek text-to-speech voice&hellip;</p>
       <hr />
       <p class="hint">
-        Speech recognition needs a local whisper.cpp server running &mdash; see
-        <code>whisper/README.md</code> in the project for setup.
+        Whisper mode needs a local whisper.cpp server running &mdash; see
+        <code>whisper/README.md</code> in the project for setup. Browser mode needs no
+        setup but sends your recording to your browser's speech service (not local/offline).
       </p>
     </div>
   `;
+
+  const backendSelect = root.querySelector<HTMLSelectElement>('#stt-backend')!;
+  backendSelect.value = getSttBackendOverride() ?? 'auto';
+
+  function updateSttStatus(): void {
+    const status = root.querySelector('#stt-status')!;
+    const active = getSttBackend();
+    status.textContent = `Currently using: ${active === 'webspeech' ? 'Browser (cloud)' : 'Whisper (local server)'}.`;
+  }
+  updateSttStatus();
+
+  backendSelect.addEventListener('change', () => {
+    const val = backendSelect.value;
+    setSttBackend(val === 'whisper' || val === 'webspeech' ? val : 'auto');
+    updateSttStatus();
+  });
 
   root.querySelector('#save-url')?.addEventListener('click', () => {
     const input = root.querySelector<HTMLInputElement>('#whisper-url')!;

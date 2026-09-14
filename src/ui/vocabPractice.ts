@@ -1,8 +1,7 @@
 import type { LessonsData, VocabEntry } from '../data/types';
 import { escapeHtml } from './util';
 import { speak, hasGreekVoice } from '../lib/tts';
-import { Recorder, toWav16kMono } from '../lib/stt';
-import { transcribe } from '../lib/whisperClient';
+import { SttSession } from '../lib/sttSession';
 import { isMatch } from '../lib/textMatch';
 import { recordResult } from '../lib/progress';
 
@@ -65,14 +64,14 @@ export function renderVocabPractice(
   let correctCount = 0;
   let totalAnswered = 0;
   let state: CardState = { kind: 'prompt' };
-  const recorder = new Recorder();
+  const stt = new SttSession();
   let lastAudioUrl: string | null = null;
   let previewAudio: HTMLAudioElement | null = null;
 
   // Release the mic once this screen is left, rather than holding it open
   // forever (it stays open across recordings within this screen on purpose --
   // see Recorder.ensureStream).
-  window.addEventListener('hashchange', () => recorder.release(), { once: true });
+  window.addEventListener('hashchange', () => stt.release(), { once: true });
 
   function releaseAudioUrl(): void {
     if (lastAudioUrl) {
@@ -93,7 +92,7 @@ export function renderVocabPractice(
 
   function render(): void {
     if (pos >= queue.length) {
-      recorder.release();
+      stt.release();
       root.innerHTML = `
         <header class="topbar"><a href="${backHref}" class="back">&#8592;</a><h1>Done</h1></header>
         <div class="scroll center">
@@ -189,7 +188,7 @@ export function renderVocabPractice(
 
   async function startRecording(_item: QueueItem, _v: VocabEntry): Promise<void> {
     try {
-      await recorder.start();
+      await stt.start();
       state = { kind: 'recording' };
     } catch {
       state = { kind: 'result', transcript: '', correct: false, error: 'Microphone permission denied.' };
@@ -199,12 +198,9 @@ export function renderVocabPractice(
 
   async function stopRecording(item: QueueItem, v: VocabEntry): Promise<void> {
     try {
-      const blob = await recorder.stop();
-      const wav = await toWav16kMono(blob);
+      const { transcript, audioBlob, recordedSec } = await stt.stop();
       releaseAudioUrl();
-      lastAudioUrl = URL.createObjectURL(wav);
-      const recordedSec = (wav.size - 44) / (16000 * 2);
-      const transcript = await transcribe(wav);
+      lastAudioUrl = URL.createObjectURL(audioBlob);
       const correct = isMatch(v.greek, transcript);
       totalAnswered++;
       if (correct) {

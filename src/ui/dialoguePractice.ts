@@ -1,8 +1,7 @@
 import type { DialogueTurn, LessonsData, Section } from '../data/types';
 import { escapeHtml } from './util';
 import { speak } from '../lib/tts';
-import { Recorder, toWav16kMono } from '../lib/stt';
-import { transcribe } from '../lib/whisperClient';
+import { SttSession } from '../lib/sttSession';
 import { isMatch } from '../lib/textMatch';
 
 type TurnState =
@@ -60,11 +59,11 @@ export function renderDialoguePractice(
   function startPractice(userSpeaker: string | null): void {
     let turnIndex = 0;
     let state: TurnState = { kind: 'idle' };
-    const recorder = new Recorder();
+    const stt = new SttSession();
     let lastAudioUrl: string | null = null;
     let previewAudio: HTMLAudioElement | null = null;
 
-    window.addEventListener('hashchange', () => recorder.release(), { once: true });
+    window.addEventListener('hashchange', () => stt.release(), { once: true });
 
     function releaseAudioUrl(): void {
       if (lastAudioUrl) {
@@ -81,7 +80,7 @@ export function renderDialoguePractice(
 
     function render(): void {
       if (turnIndex >= section!.dialogue.length) {
-        recorder.release();
+        stt.release();
         root.innerHTML = `
           <header class="topbar"><a href="${backHref}" class="back">&#8592;</a><h1>Complete</h1></header>
           <div class="scroll center">
@@ -206,7 +205,7 @@ export function renderDialoguePractice(
 
     async function startRecording(): Promise<void> {
       try {
-        await recorder.start();
+        await stt.start();
         state = { kind: 'recording' };
       } catch {
         state = { kind: 'result', transcript: '', correct: false, error: 'Microphone permission denied.' };
@@ -216,12 +215,9 @@ export function renderDialoguePractice(
 
     async function stopRecording(turn: DialogueTurn): Promise<void> {
       try {
-        const blob = await recorder.stop();
-        const wav = await toWav16kMono(blob);
+        const { transcript, audioBlob, recordedSec } = await stt.stop();
         releaseAudioUrl();
-        lastAudioUrl = URL.createObjectURL(wav);
-        const recordedSec = (wav.size - 44) / (16000 * 2);
-        const transcript = await transcribe(wav);
+        lastAudioUrl = URL.createObjectURL(audioBlob);
         const correct = isMatch(turn.greek, transcript);
         state = { kind: 'result', transcript, correct, audioUrl: lastAudioUrl, recordedSec };
       } catch (err) {

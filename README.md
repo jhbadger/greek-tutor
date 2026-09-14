@@ -19,7 +19,19 @@ npm run make-icons   # only needed once, regenerates public/icons/
 `parse-epub` reads `~/Downloads/greek.epub` and writes `src/data/lessons.json`
 (already generated and checked in — the epub itself is never read at runtime).
 
-### Speech recognition (whisper.cpp)
+### Speech recognition
+
+Two backends are available (Settings &rarr; Speech recognition):
+
+- **Whisper (local server)** — fully local, no cloud, no per-use cost. Default
+  on desktop. Requires the `whisper-server` setup below, reachable from
+  whatever device is running the app.
+- **Browser (cloud)** — uses the browser's built-in `SpeechRecognition`; no
+  setup, but sends audio to the browser vendor's speech service. Default on
+  Android, since a `whisper-server` running on your dev machine usually isn't
+  reachable from a phone. Selectable on any platform.
+
+#### Whisper (local server)
 
 The Record buttons need a local `whisper-server` process. One-time setup:
 
@@ -54,6 +66,20 @@ npm run dev       # http://localhost:5173 -- no service worker, always fresh, be
 npm run build      # production build to dist/
 npm run preview    # serve the production build, service worker included
 ```
+
+## Installing on a phone (e.g. Android)
+
+Every push to `main` builds and deploys `dist/` to GitHub Pages via
+`.github/workflows/deploy-pages.yml`, at
+`https://jhbadger.github.io/greek-tutor/`. On a phone:
+
+1. Open that URL in Chrome.
+2. Menu (&#8942;) &rarr; **Add to Home screen** / **Install app**.
+
+It installs like a native app icon and works offline after first launch
+(precached via the service worker). Speech recognition defaults to the
+browser's built-in cloud recognizer on Android (see **Speech recognition**
+above) since a local whisper-server usually isn't reachable from a phone.
 
 Use `dev` while iterating — the built/`preview` version registers a
 cache-first service worker (see **Offline / PWA behavior** below), which is
@@ -119,7 +145,10 @@ clean state during development, run this in the browser console:
 ## Troubleshooting
 
 - **"Failed to fetch" when recording**: the whisper-server isn't running —
-  start it with `./scripts/start-whisper-server.sh`.
+  start it with `./scripts/start-whisper-server.sh`. On Android, this is
+  expected unless you've pointed the Whisper server URL (Settings) at a
+  server reachable over the network — switch to Browser (cloud) in Settings
+  instead, which needs no server.
 - **Transcription is nonsense / always the same odd phrase (e.g. "[Applause]")**:
   classic Whisper response to silence. Go to Settings → Microphone and
   explicitly pick your input device (don't rely on "System default",

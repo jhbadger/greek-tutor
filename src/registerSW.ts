@@ -9,7 +9,7 @@ export function registerServiceWorker(): void {
 
   const hadController = Boolean(navigator.serviceWorker.controller);
 
-  navigator.serviceWorker.register('/sw.js').then((reg) => {
+  navigator.serviceWorker.register('sw.js').then((reg) => {
     let shown = false;
     navigator.serviceWorker.addEventListener('controllerchange', () => {
       if (!hadController || shown) return;

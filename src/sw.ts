@@ -22,7 +22,7 @@ function manifestHash(): string {
 }
 
 const CACHE_NAME = `greek-practice-${manifestHash()}`;
-const NAV_CACHE_KEY = '/index.html';
+const NAV_CACHE_KEY = 'index.html';
 
 self.addEventListener('install', (event) => {
   event.waitUntil(
