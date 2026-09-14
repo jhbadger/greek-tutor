@@ -29,7 +29,11 @@ Two backends are available (Settings &rarr; Speech recognition):
 - **Browser (cloud)** — uses the browser's built-in `SpeechRecognition`; no
   setup, but sends audio to the browser vendor's speech service. Default on
   Android, since a `whisper-server` running on your dev machine usually isn't
-  reachable from a phone. Selectable on any platform.
+  reachable from a phone. Selectable on any platform. No "Hear yourself"
+  playback in this mode — on Android, a `getUserMedia` recording running
+  alongside `SpeechRecognition` starves the latter of audio (only one
+  capture session can hold the mic at a time), so this backend skips
+  recording audio for playback and only runs `SpeechRecognition` itself.
 
 #### Whisper (local server)
 

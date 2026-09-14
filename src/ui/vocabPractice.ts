@@ -200,7 +200,7 @@ export function renderVocabPractice(
     try {
       const { transcript, audioBlob, recordedSec } = await stt.stop();
       releaseAudioUrl();
-      lastAudioUrl = URL.createObjectURL(audioBlob);
+      lastAudioUrl = audioBlob ? URL.createObjectURL(audioBlob) : null;
       const correct = isMatch(v.greek, transcript);
       totalAnswered++;
       if (correct) {
@@ -210,7 +210,7 @@ export function renderVocabPractice(
         queue.push(item);
       }
       await recordResult(item.itemId, correct);
-      state = { kind: 'result', transcript, correct, audioUrl: lastAudioUrl, recordedSec };
+      state = { kind: 'result', transcript, correct, audioUrl: lastAudioUrl ?? undefined, recordedSec };
     } catch (err) {
       state = {
         kind: 'result',

@@ -217,9 +217,9 @@ export function renderDialoguePractice(
       try {
         const { transcript, audioBlob, recordedSec } = await stt.stop();
         releaseAudioUrl();
-        lastAudioUrl = URL.createObjectURL(audioBlob);
+        lastAudioUrl = audioBlob ? URL.createObjectURL(audioBlob) : null;
         const correct = isMatch(turn.greek, transcript);
-        state = { kind: 'result', transcript, correct, audioUrl: lastAudioUrl, recordedSec };
+        state = { kind: 'result', transcript, correct, audioUrl: lastAudioUrl ?? undefined, recordedSec };
       } catch (err) {
         state = {
           kind: 'result',
