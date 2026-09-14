@@ -1,0 +1,5576 @@
+{
+  "chapters": [
+    {
+      "id": "part0010",
+      "title": {
+        "greek": "Γεια σου!",
+        "english": "Hi!"
+      },
+      "sections": [
+        {
+          "dialogue": [
+            {
+              "speaker": "Mary",
+              "greek": "Γεια σας! Πώς σας λένε;",
+              "phonetic": "[yásas] [pos sas léne]?",
+              "english": "Hello! What’s your name?"
+            },
+            {
+              "speaker": "Jean-Pierre",
+              "greek": "Γεια σας! Με λένε Jean-Pierre Depardieu.",
+              "phonetic": "[yásas] [me léne Jean-Pierre Depardieu]",
+              "english": "Hello! My name’s Jean-Pierre Depardieu."
+            },
+            {
+              "speaker": "Mary",
+              "greek": "Πώς;",
+              "phonetic": "[pos]?",
+              "english": "Pardon? (lit. What?)"
+            },
+            {
+              "speaker": "Jean-Pierre",
+              "greek": "Jean-Pierre Depardieu.",
+              "phonetic": "[Jean-Pierre Depardieu]",
+              "english": "Jean-Pierre Depardieu."
+            },
+            {
+              "speaker": "Mary",
+              "greek": "Αα! Και από πού είστε;",
+              "phonetic": "[a] [ke apó pu íste]?",
+              "english": "I see! (lit. Aha!) And where are you from?"
+            },
+            {
+              "speaker": "Jean-Pierre",
+              "greek": "Είμαι από τη Γαλλία.",
+              "phonetic": "[íme apó tin ghalía]",
+              "english": "I’m from France."
+            },
+            {
+              "speaker": "Mary",
+              "greek": "Από ποιο μέρος;",
+              "phonetic": "[apó pyo méros]?",
+              "english": "From which part?"
+            },
+            {
+              "speaker": "Jean-Pierre",
+              "greek": "Από το Παρίσι. Εσείς;",
+              "phonetic": "[apó to parísi] [esís]?",
+              "english": "From Paris. How about you? (lit. You?)"
+            },
+            {
+              "speaker": "Mary",
+              "greek": "Από την Αγγλία. Από το Λονδίνο.",
+              "phonetic": "[apó tin anglía] [apó to lonTHíno]",
+              "english": "From England. From London."
+            }
+          ],
+          "vocab": [
+            {
+              "greek": "Γεια σας!",
+              "phonetic": "yásas",
+              "english": "Hello!"
+            },
+            {
+              "greek": "πως",
+              "phonetic": "pos",
+              "english": "how (what)"
+            },
+            {
+              "greek": "πώς σας λένε;",
+              "phonetic": "pos sas léne",
+              "english": "What’s your name? (lit. ‘How are you called?’ or ‘How do they call you?’ ) (fm./pl.)"
+            },
+            {
+              "greek": "με λένε",
+              "phonetic": "me léne",
+              "english": "my name is"
+            },
+            {
+              "greek": "Αα!",
+              "phonetic": "a",
+              "english": "Aha! ( Oh, I get it! )"
+            },
+            {
+              "greek": "και",
+              "phonetic": "ke",
+              "english": "and"
+            },
+            {
+              "greek": "από",
+              "phonetic": "apό",
+              "english": "from"
+            },
+            {
+              "greek": "πού",
+              "phonetic": "pu",
+              "english": "where"
+            },
+            {
+              "greek": "είστε",
+              "phonetic": "íste",
+              "english": "you are"
+            },
+            {
+              "greek": "είμαι",
+              "phonetic": "íme",
+              "english": "I am"
+            },
+            {
+              "greek": "τη(ν)",
+              "phonetic": "tin",
+              "english": "the (f)"
+            },
+            {
+              "greek": "η Γαλλία",
+              "phonetic": "i ghalía",
+              "english": "France (f)"
+            },
+            {
+              "greek": "ποιο",
+              "phonetic": "pyo",
+              "english": "which"
+            },
+            {
+              "greek": "το μέρος",
+              "phonetic": "to méros",
+              "english": "place (n)"
+            },
+            {
+              "greek": "το",
+              "phonetic": "to",
+              "english": "the (n)"
+            },
+            {
+              "greek": "το Παρίσι",
+              "phonetic": "to parisi",
+              "english": "Paris"
+            },
+            {
+              "greek": "εσείς;",
+              "phonetic": "esís",
+              "english": "you? ( How about you? )"
+            },
+            {
+              "greek": "η Αγγλία",
+              "phonetic": "i anglía",
+              "english": "England (f)"
+            },
+            {
+              "greek": "το Λονδίνο",
+              "phonetic": "to lonTHíno",
+              "english": "London (n)"
+            }
+          ]
+        },
+        {
+          "dialogue": [
+            {
+              "speaker": "Tim",
+              "greek": "Γεια σας! Πώς σας λένε;",
+              "phonetic": "[yásas] [pos sas léne]?",
+              "english": "Hello! What’s your name?"
+            },
+            {
+              "speaker": "Domenico",
+              "greek": "Domenico Di Capo.",
+              "phonetic": "[Domenico di Capo]",
+              "english": "Domenico di Capo."
+            },
+            {
+              "speaker": "Tim",
+              "greek": "Τι γλώσσες μιλάτε;",
+              "phonetic": "[ti ghlóses miláte]?",
+              "english": "What languages do you speak?"
+            },
+            {
+              "speaker": "Domenico",
+              "greek": "Ιταλικά.",
+              "phonetic": "[italiká]",
+              "english": "Italian."
+            },
+            {
+              "speaker": "Tim",
+              "greek": "Μόνο Iταλικά;",
+              "phonetic": "[móno italiká]?",
+              "english": "Only Italian?"
+            },
+            {
+              "speaker": "Domenico",
+              "greek": "Μόνο Iταλικά.",
+              "phonetic": "[móno italiká]",
+              "english": "Only Italian."
+            },
+            {
+              "speaker": "Tim",
+              "greek": "Αα!",
+              "phonetic": "[a]",
+              "english": "I see! ( lit. Aha! )"
+            }
+          ],
+          "vocab": [
+            {
+              "greek": "τι",
+              "phonetic": "ti",
+              "english": "what"
+            },
+            {
+              "greek": "γλώσσες",
+              "phonetic": "ghlόses",
+              "english": "languages (f)"
+            },
+            {
+              "greek": "Ιταλικά",
+              "phonetic": "italiká",
+              "english": "Italian (language)"
+            },
+            {
+              "greek": "μιλάτε",
+              "phonetic": "miláte",
+              "english": "you speak"
+            },
+            {
+              "greek": "μόνο",
+              "phonetic": "mόno",
+              "english": "only"
+            }
+          ]
+        },
+        {
+          "dialogue": [
+            {
+              "speaker": "Mary",
+              "greek": "Γεια σου! Είσαι Ιταλός;",
+              "phonetic": "[yásu] [íse italós]?",
+              "english": "Hi! Are you Italian?"
+            },
+            {
+              "speaker": "Antonio",
+              "greek": "Ναι, είμαι!",
+              "phonetic": "[ne íme]",
+              "english": "Yes, I am."
+            },
+            {
+              "speaker": "Mary",
+              "greek": "Από ποια πόλη;",
+              "phonetic": "[apó pya póli]?",
+              "english": "From which town?"
+            },
+            {
+              "speaker": "Antonio",
+              "greek": "Από το Μιλάνο, αλλά τώρα μένω στην Αθήνα.",
+              "phonetic": "[apó to miláno] [alá tóra méno stin athína]",
+              "english": "From Milan, but I live in Athens now."
+            },
+            {
+              "speaker": "Mary",
+              "greek": "Εγώ είμαι από το Λονδίνο. Ξέρεις Aγγλικά;",
+              "phonetic": "[eghó íme apó to lonTHíno] [kséris angliká]?",
+              "english": "I am from London (myself) . Do you speak (lit. know ) English?"
+            },
+            {
+              "speaker": "Antonio",
+              "greek": "Όχι! Δυστυχώς! Μόνο Ιταλικά και τώρα … Eλληνικά!",
+              "phonetic": "[óchi] [THistihós] [móno italiká ke tora eliniká]",
+              "english": "No! Unfortunately not! Only Italian and now … Greek!"
+            },
+            {
+              "speaker": "Mary",
+              "greek": "Πώς σε λένε;",
+              "phonetic": "[pos se léne]?",
+              "english": "What’s your name?"
+            },
+            {
+              "speaker": "Antonio",
+              "greek": "Αντόνιο. Εσένα;",
+              "phonetic": "[António] [eséna]?",
+              "english": "Antonio. Yours?"
+            },
+            {
+              "speaker": "Mary",
+              "greek": "Μαίρη ή Μαρία.",
+              "phonetic": "[méri i maría]",
+              "english": "Mary or Maria."
+            },
+            {
+              "speaker": "Antonio",
+              "greek": "Ωραία! Γεια σου Μαίρη.",
+              "phonetic": "[oréa] [yásu méri]",
+              "english": "That’s nice! Take care, Mary!"
+            },
+            {
+              "speaker": "Mary",
+              "greek": "Γεια σου Αντόνιο.",
+              "phonetic": "[yásu antónio]",
+              "english": "’Bye Antonio."
+            }
+          ],
+          "vocab": [
+            {
+              "greek": "ο Ιταλός",
+              "phonetic": "o italόs",
+              "english": "Italian (n) (origin)"
+            },
+            {
+              "greek": "ποια",
+              "phonetic": "pya",
+              "english": "which"
+            },
+            {
+              "greek": "η πόλη",
+              "phonetic": "i pόli",
+              "english": "town (f)"
+            },
+            {
+              "greek": "το Μιλάνο",
+              "phonetic": "to miláno",
+              "english": "Milan (n)"
+            },
+            {
+              "greek": "αλλά",
+              "phonetic": "alá",
+              "english": "but"
+            },
+            {
+              "greek": "τώρα",
+              "phonetic": "tόra",
+              "english": "now"
+            },
+            {
+              "greek": "μένω",
+              "phonetic": "méno",
+              "english": "I live"
+            },
+            {
+              "greek": "στην",
+              "phonetic": "stin",
+              "english": "in"
+            },
+            {
+              "greek": "η Αθήνα",
+              "phonetic": "i athína",
+              "english": "Athens (f)"
+            },
+            {
+              "greek": "εγώ",
+              "phonetic": "eghό",
+              "english": "I (first person)"
+            },
+            {
+              "greek": "Αγγλικά",
+              "phonetic": "angliká",
+              "english": "English (language)"
+            },
+            {
+              "greek": "όχι",
+              "phonetic": "όchi",
+              "english": "no"
+            },
+            {
+              "greek": "ξέρεις; ?",
+              "phonetic": "kséris",
+              "english": "you know (here, do you know?)"
+            },
+            {
+              "greek": "δυστυχώς",
+              "phonetic": "THistihόs",
+              "english": "unfortunately / I am sorry but …"
+            },
+            {
+              "greek": "Ελληνικά",
+              "phonetic": "eliniká",
+              "english": "Greek (language)"
+            },
+            {
+              "greek": "πώς σε λένε; ?",
+              "phonetic": "pos se léne",
+              "english": "What’s your name? (infm./sing.)"
+            },
+            {
+              "greek": "εσένα",
+              "phonetic": "eséna",
+              "english": "you"
+            },
+            {
+              "greek": "ή",
+              "phonetic": "i",
+              "english": "or"
+            },
+            {
+              "greek": "ωραία",
+              "phonetic": "oréa",
+              "english": "good, nice, wonderful"
+            },
+            {
+              "greek": "σου",
+              "phonetic": "su",
+              "english": "to you / you (sing.)"
+            }
+          ]
+        },
+        {
+          "dialogue": [
+            {
+              "speaker": "Mary",
+              "greek": "Γεια σας! Εδώ μένετε;",
+              "phonetic": "[yásas] [eTHó ménete]?",
+              "english": "Hi! Are you staying here?"
+            },
+            {
+              "speaker": "Marie-Sofie",
+              "greek": "Ναι και όχι! Εγώ μένω εδώ. Η Γκάμπι όχι.",
+              "phonetic": "[ne ke óchi] [eghó méno eTHó] [i gábi óchi]",
+              "english": "Yes and no! I’m staying here. Gabi is not."
+            },
+            {
+              "speaker": "Mary",
+              "greek": "Πού μένεις Γκάμπι;",
+              "phonetic": "[pu ménis gábi]?",
+              "english": "Where are you staying, Gabi?"
+            },
+            {
+              "speaker": "Gabi",
+              "greek": "Μένω στο ξενοδοχείο “Ακρόπολις”.",
+              "phonetic": "[méno sto ksenoTHochío akrópolis]",
+              "english": "I’m staying at the Hotel Acropolis."
+            },
+            {
+              "speaker": "Mary",
+              "greek": "Πού είναι το ξενοδοχείο “Ακρόπολις”;",
+              "phonetic": "[pu íne to ksenoTHochío akrópolis]?",
+              "english": "Where’s the Hotel Acropolis?"
+            },
+            {
+              "speaker": "Gabi",
+              "greek": "Είναι κοντά αλλά δεν ξέρω πού. Μένω με μία άλλη Γερμανίδα.",
+              "phonetic": "[íne kondá] [alá THen kséro pu] [méno me mía áli ghermaníTHa]",
+              "english": "It’s close by but I don’t know where. I’m staying with another German."
+            },
+            {
+              "speaker": "Mary",
+              "greek": "Αα! Εσύ Μαρί-Σοφί, μένεις με άλλη Γαλλίδα;",
+              "phonetic": "[a] [esi marí-sofí] [ménis me áli ghalíTHa]?",
+              "english": "I see! How about you, Marie-Sofie, are you staying with another French woman?"
+            },
+            {
+              "speaker": "Marie-Sofie",
+              "greek": "Ναι, μένω με την Μονίκ από το Παρίσι.",
+              "phonetic": "[ne] [méno me tin moník] [apó to parísi]",
+              "english": "Yes, I’m staying with Monique from Paris."
+            },
+            {
+              "speaker": "Mary",
+              "greek": "Αα! Ωραία! Γεια σας λοιπόν!",
+              "phonetic": "[a] [oréa]! [yásas lipón]!",
+              "english": "I see! That’s nice! Well, take care!"
+            },
+            {
+              "speaker": "Marie-Sofie",
+              "greek": "Γεια σου!",
+              "phonetic": "[yásu]",
+              "english": "’Bye!"
+            },
+            {
+              "speaker": "Gabi",
+              "greek": "Γεια σου, Μαρία!",
+              "phonetic": "[yásu maría]!",
+              "english": "Take care, Maria!"
+            }
+          ],
+          "vocab": [
+            {
+              "greek": "εδώ",
+              "phonetic": "ethό",
+              "english": "here"
+            },
+            {
+              "greek": "στο",
+              "phonetic": "sto",
+              "english": "at the"
+            },
+            {
+              "greek": "το ξενοδοχείο",
+              "phonetic": "to ksenoTHohío",
+              "english": "hotel (n)"
+            },
+            {
+              "greek": "κοντά",
+              "phonetic": "kondá",
+              "english": "near"
+            },
+            {
+              "greek": "με",
+              "phonetic": "me",
+              "english": "with"
+            },
+            {
+              "greek": "μία/μια",
+              "phonetic": "mía/mia",
+              "english": "one/a"
+            },
+            {
+              "greek": "άλλη",
+              "phonetic": "áli",
+              "english": "other/another"
+            },
+            {
+              "greek": "μια άλλη",
+              "phonetic": "mia áli",
+              "english": "another"
+            },
+            {
+              "greek": "η Γερμανίδα",
+              "phonetic": "i ghermaníTHa",
+              "english": "German woman"
+            },
+            {
+              "greek": "η Γαλλίδα",
+              "phonetic": "i ghalíTHa",
+              "english": "French woman"
+            },
+            {
+              "greek": "εσύ",
+              "phonetic": "esí",
+              "english": "you"
+            },
+            {
+              "greek": "λοιπόν",
+              "phonetic": "lipόn",
+              "english": "then/well"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "part0011",
+      "title": {
+        "greek": "Tι κάνεις;",
+        "english": "How are you doing?"
+      },
+      "sections": [
+        {
+          "dialogue": [
+            {
+              "speaker": "Mary",
+              "greek": "Γεια σας κύριε Παπαδόπουλε! Τι κάνετε;",
+              "phonetic": "[yásas kírie papaTHópule] [ti kánete]?",
+              "english": "Hello, Mr Papadopoulos! How are you?"
+            },
+            {
+              "speaker": "Γιώργος",
+              "greek": "Γεια σου Μαίρη. Τι κάνεις;",
+              "phonetic": "[yásu méri] [ti kánis]?",
+              "english": "Hi, Mary. How are you doing?"
+            },
+            {
+              "speaker": "Mary",
+              "greek": "Καλά, καλά. Ευχαριστώ, εσείς;",
+              "phonetic": "[kalá-kalá efharistó] [esís]?",
+              "english": "Just fine, thanks, You?"
+            },
+            {
+              "speaker": "Γιώργος",
+              "greek": "Κι εγώ καλά είμαι. Λίγο κουρασμένος, αλλά γιατί μου μιλάς στον πληθυντικό;",
+              "phonetic": "[ki eghó kalá íme] [lígho kurazménos] [alá yatí mu milás ston plithindikó]?",
+              "english": "I’m also fine. A bit tired, but why are you speaking ‘formally’ to me?"
+            },
+            {
+              "speaker": "Mary",
+              "greek": "Δεν ξέρω! Δεν ξέρω καλά Ελληνικά. Είναι λάθος;",
+              "phonetic": "[THen kséro] [THen kséro kalá eliniká] [íne láthos]?",
+              "english": "I don’t know. My Greek isn’t very good. Have I made a mistake?"
+            },
+            {
+              "speaker": "Γιώργος",
+              "greek": "Όχι, δεν είναι λάθος … αλλά είμαστε συνάδελφοι. Όλοι με φωνάζουν Γιώργο.",
+              "phonetic": "[óchi] [THen íne láthos] …[alá imaste sináTHelfi] [óli me fonázun yórgho]",
+              "english": "No, you haven’t made a mistake (lit. it’s not a mistake …) but we are colleagues. Everybody calls me George."
+            },
+            {
+              "speaker": "Mary",
+              "greek": "Εντάξει Γιώργο …",
+              "phonetic": "[endáksi yórgho]",
+              "english": "OK, George."
+            }
+          ],
+          "vocab": [
+            {
+              "greek": "κύριε",
+              "phonetic": "kírie",
+              "english": "Mr"
+            },
+            {
+              "greek": "τι",
+              "phonetic": "ti",
+              "english": "what/how"
+            },
+            {
+              "greek": "κάνετε",
+              "phonetic": "kánete",
+              "english": "you do, you are doing (pl./fm. form)"
+            },
+            {
+              "greek": "κάνεις",
+              "phonetic": "kánis",
+              "english": "you do, you are doing (sing./infm. form)"
+            },
+            {
+              "greek": "καλά",
+              "phonetic": "kalá",
+              "english": "well, fine, good, OK"
+            },
+            {
+              "greek": "ευχαριστώ",
+              "phonetic": "efharistό",
+              "english": "thank you"
+            },
+            {
+              "greek": "εσείς",
+              "phonetic": "esís",
+              "english": "you (pl./fm.)"
+            },
+            {
+              "greek": "κουρασμένος",
+              "phonetic": "kurazménos",
+              "english": "tired"
+            },
+            {
+              "greek": "γιατί ;",
+              "phonetic": "yatí",
+              "english": "why?"
+            },
+            {
+              "greek": "λίγο",
+              "phonetic": "lígho",
+              "english": "a little (bit)"
+            },
+            {
+              "greek": "μου μιλάς",
+              "phonetic": "mu milás",
+              "english": "you speak to me"
+            },
+            {
+              "greek": "μιλάς",
+              "phonetic": "milás",
+              "english": "you speak"
+            },
+            {
+              "greek": "πληθυντικός",
+              "phonetic": "plithindikόs",
+              "english": "plural (m)"
+            },
+            {
+              "greek": "μιλάς στον πληθυντικό",
+              "phonetic": "milás ston pilithindikό",
+              "english": "you talk in a formal way"
+            },
+            {
+              "greek": "το λάθος",
+              "phonetic": "to láthos",
+              "english": "mistake (n) , false"
+            },
+            {
+              "greek": "συνάδελφοι",
+              "phonetic": "sináTHelfi",
+              "english": "colleagues (m/f)"
+            },
+            {
+              "greek": "όλοι",
+              "phonetic": "όli",
+              "english": "everyone (lit. all the people )"
+            },
+            {
+              "greek": "φωνάζουν",
+              "phonetic": "fonázun",
+              "english": "they call"
+            },
+            {
+              "greek": "όλοι με φωνάζουν",
+              "phonetic": "όli me fonázun",
+              "english": "everybody calls me (people call me)"
+            },
+            {
+              "greek": "εντάξει",
+              "phonetic": "endáksi",
+              "english": "all right, OK"
+            }
+          ]
+        },
+        {
+          "dialogue": [
+            {
+              "speaker": "Mary",
+              "greek": "Καλημέρα κύριε Αντωνίου! Τι κάνετε;",
+              "phonetic": "[kaliméra kírie andoníu] [ti kánete]?",
+              "english": "Good morning, Mr Andoniou! How are you?"
+            },
+            {
+              "speaker": "Γιάννης",
+              "greek": "Καλημέρα Μαρία. Είμαι καλά, εσύ πώς είσαι σήμερα;",
+              "phonetic": "[kaliméra maría] [íme kalá] [esí pos íse símera]?",
+              "english": "Good morning, Maria. How are you doing today?"
+            },
+            {
+              "speaker": "Mary",
+              "greek": "Καλά, έχω όμως πέντε μαθήματα σήμερα!",
+              "phonetic": "[kalá] [ého ómos pénde mathímata símera]",
+              "english": "Fine, but I have five classes today!"
+            },
+            {
+              "speaker": "Γιάννης",
+              "greek": "(laughing). Πω! πω! Ποιος κάνει το πρόγραμμα σου;",
+              "phonetic": "[po-po] [pyos káni to próghrama su]?",
+              "english": "Wow! Who arranges your schedule?"
+            },
+            {
+              "speaker": "Mary",
+              "greek": "Εσείς κύριε Αντωνίου!",
+              "phonetic": "[esís kírie andoníu]",
+              "english": "You, Mr Andoniou!"
+            },
+            {
+              "speaker": "Γιάννης",
+              "greek": "Α, ναι! Το ξέχασα!",
+              "phonetic": "[a ne]! [to kséhasa]!",
+              "english": "Oh, yes! I forgot that!"
+            }
+          ],
+          "vocab": [
+            {
+              "greek": "εσύ",
+              "phonetic": "esí",
+              "english": "you (sing./infm.)"
+            },
+            {
+              "greek": "πώς είσαι ; ?",
+              "phonetic": "pos íse",
+              "english": "how are you?"
+            },
+            {
+              "greek": "σήμερα",
+              "phonetic": "símera",
+              "english": "today"
+            },
+            {
+              "greek": "έχω",
+              "phonetic": "écho",
+              "english": "I have"
+            },
+            {
+              "greek": "όμως",
+              "phonetic": "όmos",
+              "english": "but, though"
+            },
+            {
+              "greek": "πέντε",
+              "phonetic": "pénde",
+              "english": "five"
+            },
+            {
+              "greek": "μαθήματα",
+              "phonetic": "mathímata",
+              "english": "classes (n) , lessons, courses"
+            },
+            {
+              "greek": "πω! πω! !",
+              "phonetic": "po-po",
+              "english": "Wow!"
+            },
+            {
+              "greek": "ποιος",
+              "phonetic": "pyos",
+              "english": "who"
+            },
+            {
+              "greek": "το πρόγραμμα",
+              "phonetic": "to prόghrama",
+              "english": "schedule (lit. programme )"
+            },
+            {
+              "greek": "ποιος κάνει το πρόγραμμα σου; ?",
+              "phonetic": "pyos káni to prόghrama su",
+              "english": "Who arranges your schedule?"
+            },
+            {
+              "greek": "το ξέχασα!",
+              "phonetic": "to kséhasa",
+              "english": "I forgot that!"
+            },
+            {
+              "greek": "ξέχασα",
+              "phonetic": "kséhasa",
+              "english": "I forgot"
+            }
+          ]
+        },
+        {
+          "dialogue": [
+            {
+              "speaker": "Marianne",
+              "greek": "Γεια σου Ντομένικο. Χαίρομαι που σε ξαναβλέπω. Πώς είσαι;",
+              "phonetic": "[yásu doméniko] [hérome pu se ksanavlépo] [pos íse]?",
+              "english": "Hi, Domenico. I’m glad to see you again. How are you doing?"
+            },
+            {
+              "speaker": "Domenico",
+              "greek": "Γεια σου Μαριάννα. Δεν το πιστεύω! Σε ξαναβλέπω στην Αθήνα. Πώς πας; Είσαι καλά;",
+              "phonetic": "[yásu mariána] [THen to pistévo] [se ksanavlépo stin athína] [pos pas]? [íse kalá]?",
+              "english": "Hi, Marianne. I don’t believe it! I see you in Athens again. How’s it going? Are you OK?"
+            },
+            {
+              "speaker": "Marianne",
+              "greek": "Είμαι πολύ καλά. Εσύ πώς είσαι;",
+              "phonetic": "[íme polí kalá] [esí pos íse]?",
+              "english": "I’m just fine. How are you?"
+            },
+            {
+              "speaker": "Domenico",
+              "greek": "Καλά, πολύ καλά!",
+              "phonetic": "[kalá] [polí kalá]",
+              "english": "Fine, just fine."
+            },
+            {
+              "speaker": "Marianne",
+              "greek": "Πόσες μέρες είσαι στην Αθήνα;",
+              "phonetic": "[póses méres íse stin athína]?",
+              "english": "How many days have you been (lit. are you ) in Athens?"
+            },
+            {
+              "speaker": "Domenico",
+              "greek": "Έχω τρεις μέρες στην Αθήνα… Νομίζω τέσσερις… Χμ! Δε θυμάμαι.",
+              "phonetic": "[ého tris méres stin athína] [nomízo téseris] [hm]! [THe thimáme]!",
+              "english": "I’ve been (lit. I have) three … days in Athens. I think four … Hm! I don’t remember!"
+            }
+          ],
+          "vocab": [
+            {
+              "greek": "χαίρομαι",
+              "phonetic": "hérome",
+              "english": "I am glad"
+            },
+            {
+              "greek": "ξαναβλέπω",
+              "phonetic": "ksanavlépo",
+              "english": "I see again"
+            },
+            {
+              "greek": "χαίρομαι που σε ξαναβλέπω",
+              "phonetic": "hérome pu se ksanavlépo",
+              "english": "I am glad to see you again"
+            },
+            {
+              "greek": "πιστεύω",
+              "phonetic": "pistévo",
+              "english": "I believe"
+            },
+            {
+              "greek": "δεν το πιστεύω!",
+              "phonetic": "THen to pistévo",
+              "english": "I don’t believe that!"
+            },
+            {
+              "greek": "πώς πας; ?",
+              "phonetic": "pos pas",
+              "english": "How are you doing? How’s everything?"
+            },
+            {
+              "greek": "πολύ καλά",
+              "phonetic": "polí kalá",
+              "english": "very well, pretty good"
+            },
+            {
+              "greek": "πόσες; ?",
+              "phonetic": "pόses",
+              "english": "how many?"
+            },
+            {
+              "greek": "έχω τρεις μέρες στην Αθήνα …",
+              "phonetic": "",
+              "english": "I have been in Athens for"
+            },
+            {
+              "greek": "…",
+              "phonetic": "ého tris méres stin athína",
+              "english": "three days"
+            },
+            {
+              "greek": "η ημέρα",
+              "phonetic": "i iméra",
+              "english": "day (f)"
+            },
+            {
+              "greek": "νομίζω",
+              "phonetic": "nomízo",
+              "english": "I think"
+            },
+            {
+              "greek": "τέσσερις",
+              "phonetic": "téseris",
+              "english": "four"
+            },
+            {
+              "greek": "χμ! !",
+              "phonetic": "hm",
+              "english": "hm!"
+            },
+            {
+              "greek": "θυμάμαι",
+              "phonetic": "thimáme",
+              "english": "I remember"
+            }
+          ]
+        },
+        {
+          "dialogue": [
+            {
+              "speaker": "Γιώργος",
+              "greek": "Συγγνώμη, η κα Johnson εδώ μένει;",
+              "phonetic": "[sighnómi] [i kíria Johnson eTHó méni]?",
+              "english": "Excuse me, is Mrs Johnson staying here?"
+            },
+            {
+              "speaker": "Receptionist",
+              "greek": "Μάλιστα, εδώ μένει.",
+              "phonetic": "[málista] [eTHó méni]",
+              "english": "Yes, she is."
+            },
+            {
+              "speaker": "Γιώργος",
+              "greek": "Μπορείτε να τη φωνάξετε; Με λένε Γιώργο Παπαδόπουλο.",
+              "phonetic": "[boríte na tin fonáksete]? [me léne] [yórgho papaTHópulo]",
+              "english": "Can you call her (please)? My name’s George Papadopoulos."
+            },
+            {
+              "speaker": "Receptionist",
+              "greek": "Μισό λεπτό. Μπορώ να δω αν το κλειδί είναι εδώ. Δεν είναι εδώ άρα είναι στο δωμάτιο της. Σε λίγο …",
+              "phonetic": "[misó leptó] [boró na THo] [an to kliTHí] [ine eTHó] [THen íne eTHó] [ára íne sto THomátio tis] [se lígho] …",
+              "english": "Just a moment. I’ll look to see if her key is here … i t’s not here; she must be in her room. A little later …"
+            },
+            {
+              "speaker": "Γιώργος",
+              "greek": "Γεια σου Μαίρη. Τι κάνεις; Είσαι καλά;",
+              "phonetic": "[yásu méri] [ti kánis]? [íse kalá]?",
+              "english": "Hi, Mary. How are you doing? Are you OK?"
+            },
+            {
+              "speaker": "Mary",
+              "greek": "Γεια σου Γιώργο. Είμαι καλά αλλά λίγο κουρασμένη. Έχω τρεις μέρες στην Αθήνα μόνο, αλλά δεν κοιμάμαι καθόλου!",
+              "phonetic": "[yásu yórgho] [íme kalá] [alá lígho kurazméni] [ého tris méres stin athína móno] [alá THen kimáme kathólu]!",
+              "english": "Hi, George. I’m OK but a little tired. I’ve been in Athens for only three days, and I can’t (lit. don’t ) get any sleep at all!"
+            },
+            {
+              "speaker": "Γιώργος",
+              "greek": "Θα πάμε σινεμά ή όχι;",
+              "phonetic": "[tha páme sinemá] [i óchi]?",
+              "english": "Shall we go to the cinema (movies) or not?"
+            },
+            {
+              "speaker": "Mary",
+              "greek": "Δεν ξέρω … δε νομίζω … είμαι μάλλον πολύ κουρασμένη …",
+              "phonetic": "[THen kséro] [THe nomízo] [íme málon polí kurazméni]",
+              "english": "I don’t know … I don’t think so … I’m really (lit. rather ) very tired."
+            }
+          ],
+          "vocab": [
+            {
+              "greek": "πάλι",
+              "phonetic": "páli",
+              "english": "again"
+            },
+            {
+              "greek": "μπορείτε να",
+              "phonetic": "boríte",
+              "english": "are you able to, can you"
+            },
+            {
+              "greek": "την",
+              "phonetic": "tin",
+              "english": "her"
+            },
+            {
+              "greek": "μισό λεπτό",
+              "phonetic": "misό leptό",
+              "english": "just a minute"
+            },
+            {
+              "greek": "αν",
+              "phonetic": "an",
+              "english": "if"
+            },
+            {
+              "greek": "το κλειδί",
+              "phonetic": "to kliTHí",
+              "english": "key (n)"
+            },
+            {
+              "greek": "άρα",
+              "phonetic": "ára",
+              "english": "then"
+            },
+            {
+              "greek": "το δωμάτιο",
+              "phonetic": "to THomátio",
+              "english": "the room (n)"
+            },
+            {
+              "greek": "της",
+              "phonetic": "tis",
+              "english": "her"
+            },
+            {
+              "greek": "στο δωμάτιό της",
+              "phonetic": "sto THomátiotis",
+              "english": "in her room"
+            },
+            {
+              "greek": "καθόλου",
+              "phonetic": "kathόlu",
+              "english": "at all"
+            },
+            {
+              "greek": "θα πάμε; ?",
+              "phonetic": "tha páme",
+              "english": "shall we go?"
+            },
+            {
+              "greek": "το σινεμά",
+              "phonetic": "to sinemá",
+              "english": "cinema (n)"
+            },
+            {
+              "greek": "μάλλον",
+              "phonetic": "málon",
+              "english": "rather/probably"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "part0012",
+      "title": {
+        "greek": "Έλα να πιούμε ένα ουζάκι!",
+        "english": "Let’s have a glass of ouzo!"
+      },
+      "sections": [
+        {
+          "dialogue": [
+            {
+              "speaker": "Γιώργος",
+              "greek": "Μαίρη, έλα να πιούμε ένα ουζάκι στης “Αλεξάνδρας”.",
+              "phonetic": "[méri] [éla na pyúme] [éna uzáki stis aleksánTHras]",
+              "english": "Mary, let’s have a glass of o uzo at Alexandra’s."
+            },
+            {
+              "speaker": "Mary",
+              "greek": "Πού είναι της “Αλεξάνδρας”;",
+              "phonetic": "[pu íne tis aleksánTHras]?",
+              "english": "Where is (lit. the ) Alexandra’s?"
+            },
+            {
+              "speaker": "Γιώργος",
+              "greek": "Είναι κοντά στο πάρκο Παναθήναια, ένα πολύ όμορφο μεζεδοπωλείο.",
+              "phonetic": "[íne kondá sto párko panathínea] [éna polí ómorfo mezeTHopolío]",
+              "english": "It’s close by, at the Panathinea Park, a v ery nice ‘mezethopolio’."
+            },
+            {
+              "speaker": "Mary",
+              "greek": "Μεζεδοπωλείο … τι είναι αυτό; Δεν καταλαβαίνω.",
+              "phonetic": "[mezeTHopolío] [ti íne aftó]? [THen katalavéno]",
+              "english": "‘ Mezethopolio’, what’s t hat? I don’t understand."
+            },
+            {
+              "speaker": "Γιώργος",
+              "greek": "Μεζεδοπωλείο είναι μία ταβέρνα με πολλούς μεζέδες … και πολύ ούζο. Σε λίγο … στης Αλεξάνδρας …",
+              "phonetic": "[mezeTHopolío íne mía tavérna] [me polús mezéTHes] [ke polí úzo] [se lígho] … [stis aleksánTHras] …",
+              "english": "‘Mezethopolio’ is a tavern with many appetizers and a lot of ouzo. … A little while later … at Alexandra’s …"
+            },
+            {
+              "speaker": "Σερβιτόρος",
+              "greek": "Τι θα πάρετε παρακαλώ;",
+              "phonetic": "[ti tha párete parakaló]?",
+              "english": "Are you ready to order? (lit. What are you having, please? )"
+            },
+            {
+              "speaker": "Γιώργος",
+              "greek": "Δύο ουζάκια και μία ποικιλία.",
+              "phonetic": "[THío uzákia] [ke mía pikilía]",
+              "english": "Two ( glasses of ) ouzo and a plate of assorted appetizers."
+            },
+            {
+              "speaker": "Σερβιτόρος",
+              "greek": "Αμέσως!",
+              "phonetic": "[amésos]!",
+              "english": "Right away!"
+            }
+          ],
+          "vocab": [
+            {
+              "greek": "έλα",
+              "phonetic": "éla",
+              "english": "come/let’s go"
+            },
+            {
+              "greek": "στης",
+              "phonetic": "stis",
+              "english": "at"
+            },
+            {
+              "greek": "έλα να πιούμε",
+              "phonetic": "éla na pyúme",
+              "english": "let’s go and have (lit. (you) come and (we) drink )"
+            },
+            {
+              "greek": "το πάρκο",
+              "phonetic": "to párko",
+              "english": "park (n)"
+            },
+            {
+              "greek": "Παναθήναια",
+              "phonetic": "panathínea",
+              "english": "a park in Athens"
+            },
+            {
+              "greek": "η Αλεξάνδρα",
+              "phonetic": "i alexánTHra",
+              "english": "Alexandra (f) (here = the name of an avenue and tavern)"
+            },
+            {
+              "greek": "όμορφο",
+              "phonetic": "όmorfo",
+              "english": "nice (lit. beautiful )"
+            },
+            {
+              "greek": "το μεζεδοπωλείο",
+              "phonetic": "",
+              "english": "(infm.) tavern offering a large [to mezeTHopolío] number of appetizers"
+            },
+            {
+              "greek": "μεζέδες",
+              "phonetic": "mezéTHes",
+              "english": "appetizers (m), snacks (cold or hot starters)"
+            },
+            {
+              "greek": "η ταβέρνα",
+              "phonetic": "i tavérna",
+              "english": "tavern (f)"
+            },
+            {
+              "greek": "πολλούς",
+              "phonetic": "polús",
+              "english": "many"
+            },
+            {
+              "greek": "ο σερβιτόρος",
+              "phonetic": "o servitόros",
+              "english": "waiter (n) (lit. the servant )"
+            },
+            {
+              "greek": "θα πάρετε",
+              "phonetic": "tha párete",
+              "english": "will you have"
+            },
+            {
+              "greek": "η ποικιλία",
+              "phonetic": "i pikilía",
+              "english": "assorted appetizers"
+            },
+            {
+              "greek": "αμέσως",
+              "phonetic": "amésos",
+              "english": "straight away"
+            }
+          ]
+        },
+        {
+          "dialogue": [
+            {
+              "speaker": "Mary",
+              "greek": "Πώς πίνετε το ούζο στην Ελλάδα;",
+              "phonetic": "[pos pínete to úzo] [stin eláTHa]?",
+              "english": "How do people (you, the Greeks) drink ouzo in Greece?"
+            },
+            {
+              "speaker": "Γιώργος",
+              "greek": "Σκέτο, με πάγο ή με νερό.",
+              "phonetic": "[skéto] [me págho] [i me neró]",
+              "english": "Straight, on the rocks, or with water."
+            },
+            {
+              "speaker": "Mary",
+              "greek": "Ούζο με νερό! Αυτό είναι! Βάλε μου λίγο νερό.",
+              "phonetic": "[úzo me neró] [aftó íne] [vále mu lígho neró].",
+              "english": "Ouzo with water. That’s it! Let me have (lit. pour/put ) some (lit. little ) water."
+            },
+            {
+              "speaker": "Γιώργος",
+              "greek": "Ορίστε! Πίνετε ούζο στην Αγγλία;",
+              "phonetic": "[oríste]! [pínete úzo stin anglía]?",
+              "english": "Here you go! Do you drink ouzo in England?"
+            },
+            {
+              "speaker": "Mary",
+              "greek": "Ναι, έχω μία φίλη που της αρέσει το ούζο. Πίνει συνήθως ούζο με λεμονάδα.",
+              "phonetic": "[ne] [ého mía fíli] [pu tis arési to úzo] [píni siníthos] [úzo me lemonáTHa]",
+              "english": "Yes, I’ve got a (lit. girl ) friend who likes ouzo. She usually drinks ouzo with lemonade."
+            },
+            {
+              "speaker": "Γιώργος",
+              "greek": "Ουφ! Ούζο με λεμονάδα! Απαίσιο!",
+              "phonetic": "[uf]! [úzo me lemonáTHa]! [apésio]",
+              "english": "Phew! Ouzo with lemonade! Awful!"
+            },
+            {
+              "speaker": "Mary",
+              "greek": "Όχι είναι θαυμάσιο! Μου αρέσει πολύ. Στην Αγγλία πίνουμε επίσης Μεταξά σκέτο ή με κόκα κόλα.",
+              "phonetic": "[óchi] [ine thavmásio] [mu arési polí] [stin anglía] [pínume epísis metaksá] [skéto i me kóka kóla]",
+              "english": "No, it’s wonderful. I like it a lot. In England, we also drink Metaxa brandy straight or with coke."
+            },
+            {
+              "speaker": "Γιώργος",
+              "greek": "Μεταξά με κόκα κόλα! Φτάνει! Δε θέλω να ακούσω άλλο πια …",
+              "phonetic": "[metaksá me kóka kóla]! [ftáni]! [THe thélo n’akúso] [álo pya]",
+              "english": "Metaxa with coke! That’s it (lit. enough ) ! I don’t want to hear any more (lit. any longer )."
+            }
+          ],
+          "vocab": [
+            {
+              "greek": "πίνετε",
+              "phonetic": "pínete",
+              "english": "you drink"
+            },
+            {
+              "greek": "σκέτο",
+              "phonetic": "skéto",
+              "english": "straight"
+            },
+            {
+              "greek": "με πάγο",
+              "phonetic": "me págho",
+              "english": "on the rocks (lit. with ice )"
+            },
+            {
+              "greek": "το νερό",
+              "phonetic": "to nerό",
+              "english": "water (n)"
+            },
+            {
+              "greek": "αυτό είναι!",
+              "phonetic": "aftό íne",
+              "english": "that’s it!/this is it!"
+            },
+            {
+              "greek": "βάλε",
+              "phonetic": "vále",
+              "english": "pour / give"
+            },
+            {
+              "greek": "ορίστε",
+              "phonetic": "oríste",
+              "english": "here you are!"
+            },
+            {
+              "greek": "που",
+              "phonetic": "pu",
+              "english": "that"
+            },
+            {
+              "greek": "της αρέσει",
+              "phonetic": "tis arési",
+              "english": "she likes"
+            },
+            {
+              "greek": "συνήθως",
+              "phonetic": "siníthos",
+              "english": "usually"
+            },
+            {
+              "greek": "η λεμονάδα",
+              "phonetic": "i lemonáTHa",
+              "english": "lemonade (f)"
+            },
+            {
+              "greek": "ουφ! !",
+              "phonetic": "uf",
+              "english": "phew!"
+            },
+            {
+              "greek": "απαίσιο",
+              "phonetic": "apésio",
+              "english": "awful (adj.)"
+            },
+            {
+              "greek": "θαυμάσιο",
+              "phonetic": "thavmásio",
+              "english": "marvellous (adj.)/ wonderful"
+            },
+            {
+              "greek": "επίσης",
+              "phonetic": "epísis",
+              "english": "also"
+            },
+            {
+              "greek": "Φτάνει! !",
+              "phonetic": "ftáni",
+              "english": "That’s enough!"
+            },
+            {
+              "greek": "ακούσω",
+              "phonetic": "akúso",
+              "english": "hear"
+            },
+            {
+              "greek": "Δε θέλω να ακούσω άλλο πια!",
+              "phonetic": "THe thélo n’akúso álo pya",
+              "english": "I don’t want to hear any more (any longer)!"
+            }
+          ]
+        },
+        {
+          "dialogue": [
+            {
+              "speaker": "Σερβιτόρος",
+              "greek": "Είστε έτοιμοι;",
+              "phonetic": "[íste étimi]?",
+              "english": "Are you ready (to order)?"
+            },
+            {
+              "speaker": "Marie-Sofie",
+              "greek": "Όχι, μας φέρνετε τον κατάλογο παρακαλώ;",
+              "phonetic": "[óchi] [mas férnete ton katálogho parakaló]",
+              "english": "No, could you bring us the menu please?"
+            },
+            {
+              "speaker": "Σερβιτόρος",
+              "greek": "Ναι, βέβαια, αμέσως. Σε λίγο …",
+              "phonetic": "[ne vévea] [amésos] [se lígho] …",
+              "english": "Yes, of course, right away. A little later …"
+            },
+            {
+              "speaker": "Σερβιτόρος",
+              "greek": "Είστε έτοιμοι τώρα;",
+              "phonetic": "[íste étimi tóra]?",
+              "english": "Are you ready now?"
+            },
+            {
+              "speaker": "Marie-Sofie",
+              "greek": "Θέλουμε δύο πρωινά “κοντινένταλ” και δύο ομελέτες με ζαμπόν. Ένα γαλλικό καφέ, ένα τσάι και δύο χυμούς πορτοκάλι.",
+              "phonetic": "[thélume THío proiná kontinéntal] [ke THío omelétes me zambón] [éna ghalikó kafé] [éna tsái] [ke THío chimús portokáli]",
+              "english": "We’d like two continental breakfasts and two ham omelettes, a French coffee, a (cup of) tea and two glasses of orange juice."
+            },
+            {
+              "speaker": "Σερβιτόρος",
+              "greek": "Θέλετε το τσάι με λεμόνι ή γάλα;",
+              "phonetic": "[thélete to tsái] [me lemóni i ghála]?",
+              "english": "Would you like tea with lemon or milk?"
+            },
+            {
+              "speaker": "Gabi",
+              "greek": "Τσάι με λεμόνι, ευχαριστώ.",
+              "phonetic": "[tsái me lemóni] [efharistó]",
+              "english": "Tea with lemon, thanks."
+            },
+            {
+              "speaker": "Domenico",
+              "greek": "Φέρτε μας λίγο βούτυρο και μαρμελάδα επίσης.",
+              "phonetic": "[férte mas] [lígho vútiro ke marmeláTHa] [epísis]",
+              "english": "Can you also bring us some butter and jam (lit. marmalade )?"
+            },
+            {
+              "speaker": "Marie-Sofie",
+              "greek": "Και φρυγανιές ή ψωμί …",
+              "phonetic": "[ke frighaniés] [i psomí]",
+              "english": "And toast or (regular) bread."
+            },
+            {
+              "speaker": "Σερβιτόρος",
+              "greek": "Αμέσως … αμέσως! … Ουφ!",
+              "phonetic": "[amésos – amésos] [uf]!",
+              "english": "Right away, right away, I’ve had it!"
+            }
+          ],
+          "vocab": [
+            {
+              "greek": "έτοιμοι",
+              "phonetic": "étimi",
+              "english": "ready"
+            },
+            {
+              "greek": "φέρνετε",
+              "phonetic": "férnete",
+              "english": "you bring"
+            },
+            {
+              "greek": "μας φέρνετε = φέρτε μας",
+              "phonetic": "mas férnete / férte mas",
+              "english": "(Could you) bring us"
+            },
+            {
+              "greek": "ο κατάλογος",
+              "phonetic": "o katáloghos",
+              "english": "menu (m) (lit. catalogue / list )"
+            },
+            {
+              "greek": "το πρωινό",
+              "phonetic": "to proinό",
+              "english": "breakfast (n)"
+            },
+            {
+              "greek": "κοντινένταλ",
+              "phonetic": "kontinéntal",
+              "english": "continental"
+            },
+            {
+              "greek": "ομελέτες",
+              "phonetic": "omelétes",
+              "english": "omelettes"
+            },
+            {
+              "greek": "το ζαμπόν",
+              "phonetic": "to zambόn",
+              "english": "ham (n)"
+            },
+            {
+              "greek": "ο καφές",
+              "phonetic": "o kafés",
+              "english": "coffee (m)"
+            },
+            {
+              "greek": "το τσάι",
+              "phonetic": "to tsái",
+              "english": "tea (n)"
+            },
+            {
+              "greek": "ο χυμός",
+              "phonetic": "o chimόs",
+              "english": "juice (m)"
+            },
+            {
+              "greek": "το πορτοκάλι",
+              "phonetic": "to portokáli",
+              "english": "orange (n)"
+            },
+            {
+              "greek": "το λεμόνι",
+              "phonetic": "to lemόni",
+              "english": "lemon (n)"
+            },
+            {
+              "greek": "το γάλα",
+              "phonetic": "to ghála",
+              "english": "milk (n)"
+            },
+            {
+              "greek": "το βούτυρο",
+              "phonetic": "to vútiro",
+              "english": "butter (n)"
+            },
+            {
+              "greek": "η μαρμελάδα",
+              "phonetic": "i marmeláTHa",
+              "english": "marmalade (f)"
+            },
+            {
+              "greek": "φρυγανιές",
+              "phonetic": "frighanyés",
+              "english": "toast"
+            },
+            {
+              "greek": "το ψωμί",
+              "phonetic": "to psomí",
+              "english": "bread (n)"
+            },
+            {
+              "greek": "ουφ! !",
+              "phonetic": "uf",
+              "english": "I’ve had it! Enough! No more! phew!"
+            }
+          ]
+        },
+        {
+          "dialogue": [
+            {
+              "speaker": "Γιώργος",
+              "greek": "Τι θα πάρουμε παιδιά;",
+              "phonetic": "[ti tha párume peTHiá]?",
+              "english": "What are we going to have, guys (lit. children )?"
+            },
+            {
+              "speaker": "Domenico",
+              "greek": "Εγώ λέω να πάρουμε ούζο και μία μεγάλη ποικιλία.",
+              "phonetic": "[eghó léo na párume úzo] [ke mía megháli pikilía]",
+              "english": "I’m suggesting that we have ouzo and a large plate of assorted appetizers."
+            },
+            {
+              "speaker": "Mary",
+              "greek": "Πάλι ούζο! Εγώ θέλω να πιω ουίσκι σήμερα. Ένα Cutty Sark με παγάκια.",
+              "phonetic": "[páli úzo]! [eghó thélo na pyo] [uíski símera] [éna káti sark] [me paghákia]",
+              "english": "Ouzo again! I want to have whisky today. A Cutty Sark on the rocks."
+            },
+            {
+              "speaker": "Γιώργος",
+              "greek": "Κι εγώ θέλω μία μπύρα. Μία Heineken ή μία Amstel.",
+              "phonetic": "[ki eghó thélo mía bíra] [mía Heineken] [i mía Amstel]",
+              "english": "And I want a beer. A Heineken or an Amstel."
+            },
+            {
+              "speaker": "Domenico",
+              "greek": "Τότε εγώ θα πάρω ένα ουζάκι και μία μικρή ποικιλία. Γιατί είμαστε στην Ελλάδα;",
+              "phonetic": "[tóte eghó tha páro éna uzáki] [ke mia mikrí pikilía] [yatí ímaste stin eláTHa]?",
+              "english": "Then I’ll have a small glass of) ouzo and a small plate of assorted appetizers. We are in Greece after all (lit. Why are we in Greece? )."
+            },
+            {
+              "speaker": "Mary",
+              "greek": "Καλά λες! Να πάρουμε ένα μπουκάλι ρετσίνα … έχουν ρετσίνα εδώ;",
+              "phonetic": "[kalá les]! [na párume éna bukáli retsína] … [éhun retsína eTHó]?",
+              "english": "You’re right! Let’s have a bottle of retsina … do they have retsina here?"
+            },
+            {
+              "speaker": "Γιώργος",
+              "greek": "… Δε νομίζω. Εδώ είναι καφέ-μπαρ. Ας ρωτήσουμε όμως …",
+              "phonetic": "[THe nomízo] [eTHó íne kafé-bar] [as rotísume ómos]",
+              "english": "… I don’t think (so). It’s a coffee bar (here). Let’s ask anyhow (lit. though )."
+            }
+          ],
+          "vocab": [
+            {
+              "greek": "το καφέ",
+              "phonetic": "to kafé",
+              "english": "(here) café (n)"
+            },
+            {
+              "greek": "το μπαρ",
+              "phonetic": "to bar",
+              "english": "bar (n)"
+            },
+            {
+              "greek": "λέω",
+              "phonetic": "léo",
+              "english": "I’m suggesting/saying"
+            },
+            {
+              "greek": "μεγάλος/-η/ -ο",
+              "phonetic": "meghálos/-i/-o",
+              "english": "large (adj)"
+            },
+            {
+              "greek": "πάλι",
+              "phonetic": "páli",
+              "english": "again"
+            },
+            {
+              "greek": "πιω",
+              "phonetic": "pyo",
+              "english": "I drink"
+            },
+            {
+              "greek": "θέλω να πιω",
+              "phonetic": "thélo na pyo",
+              "english": "I would like to drink"
+            },
+            {
+              "greek": "το ουίσκι",
+              "phonetic": "to uíski",
+              "english": "whisky (n)"
+            },
+            {
+              "greek": "σήμερα",
+              "phonetic": "símera",
+              "english": "today"
+            },
+            {
+              "greek": "με παγάκια",
+              "phonetic": "me paghákia",
+              "english": "with ice cubes/on the rocks"
+            },
+            {
+              "greek": "η μπύρα",
+              "phonetic": "i bíra",
+              "english": "beer (f)"
+            },
+            {
+              "greek": "μικρός/-ή/ -ό",
+              "phonetic": "mikrόs/-í/-ό",
+              "english": "small"
+            },
+            {
+              "greek": "γιατί",
+              "phonetic": "yatí",
+              "english": "because"
+            },
+            {
+              "greek": "καλά λες! !",
+              "phonetic": "kalá les",
+              "english": "you’re right! you’re talking sense! (lit. well you are saying )"
+            },
+            {
+              "greek": "το μπουκάλι",
+              "phonetic": "to bukáli",
+              "english": "bottle (n)"
+            },
+            {
+              "greek": "η ρετσίνα",
+              "phonetic": "i retsína",
+              "english": "retsina (f) Greek wine flavoured with resin"
+            },
+            {
+              "greek": "ας ρωτήσουμε",
+              "phonetic": "as rotísume",
+              "english": "let’s ask"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "part0013",
+      "title": {
+        "greek": "Kαλή όρεξη!",
+        "english": "Bon appetit!"
+      },
+      "sections": [
+        {
+          "dialogue": [
+            {
+              "speaker": "Tim",
+              "greek": "Δεν καταλαβαίνω τίποτα! Είναι όλα στα Ελληνικά!",
+              "phonetic": "[THen katalavéno típota]! [íne óla sta eliniká]!",
+              "english": "I don’t understand anything! Everything’s in Greek!"
+            },
+            {
+              "speaker": "Γιάννης",
+              "greek": "Έλα τώρα! Είναι όλα στ’ Aγγλικά!",
+              "phonetic": "[éla tóra]! [íne óla sta angliká]!",
+              "english": "Come on now! Every-thing’s in English!"
+            },
+            {
+              "speaker": "Tim",
+              "greek": "Βέβαια! Βέβαια! Τζατζίκι; Ταραμοσαλάτα; Μελιτζανοσαλάτα; Τι είναι αυτά;",
+              "phonetic": "[vévea-vévea]? [tzatzíki]? [taramosaláta]? [melitzanosaláta]? [ti íne aftá]?",
+              "english": "Really? Tzatziki? Taramosalata? Melitzanosalata? What are these?"
+            },
+            {
+              "speaker": "Γιάννης",
+              "greek": "Εντάξει! Θα παραγγείλω εγώ για σένα. Να πάρουμε μία ποικιλία από τους ουζομεζέδες που έχουν.",
+              "phonetic": "[endáksi]! [tha parangílo eghó ya séna] [na párume mia pikilía] [apó tus uzomezéTHes pu éhun]",
+              "english": "All right! I will order for you. Let’s have a plate of assorted appetizers from the starters (lit. ouzo ) on offer."
+            },
+            {
+              "speaker": "Tim",
+              "greek": "Εγώ θέλω μουσακά!",
+              "phonetic": "[eghó thélo musaká]!",
+              "english": "I’d like moussaka!"
+            },
+            {
+              "speaker": "Γιάννης",
+              "greek": "Δεν έχουν μουσακά εδώ. Μισό λεπτό. Έχετε μουσακά;",
+              "phonetic": "[THen éhun musaká eTHó] [misó leptó] [éhete musaká]?",
+              "english": "They don’t have moussaka here. Just a moment. Do you have moussaka?"
+            },
+            {
+              "speaker": "Σερβιτόρα",
+              "greek": "Όχι! Έχουμε μόνο ό,τι λέει ο κατάλογος.",
+              "phonetic": "[óchi]! [éhume móno] [óti léi o katáloghos]",
+              "english": "No! We’ve only got what’s on the menu."
+            },
+            {
+              "speaker": "Γιάννης",
+              "greek": "Ωραία! Τότε θέλουμε μία ταραμοσαλάτα, μία τυρόπιτα, πιπεριές γεμιστές, ντολμαδάκια και σουτζουκάκια. Α! και μία σαλάτα εποχής.",
+              "phonetic": "[oréa]! [tóte thélume mía taramosaláta] [mía tirópita] [piperiés ghemistés] [dolmaTHákia ke sutzukákia] [a] [ke mía saláta epochís]",
+              "english": "OK! (lit. Nice! ) Then we’d like an (order of) taramosalata, cheese pie, stuffed peppers, dolmathakia, and soutzoukakia. Ah, and a seasonal salad."
+            },
+            {
+              "speaker": "Σερβιτόρα",
+              "greek": "Μάλιστα. Θα πιείτε κάτι;",
+              "phonetic": "[málista] [tha pyíte káti]?",
+              "english": "Yes. Will you have anything to drink?"
+            },
+            {
+              "speaker": "Γιάννης",
+              "greek": "Τιμ, θέλεις ρετσίνα ή ένα καραφάκι ούζο;",
+              "phonetic": "[tim] [thélis retsína] [i éna karafáki úzo]?",
+              "english": "Tim, do you want retsina or a small carafe of ouzo?"
+            },
+            {
+              "speaker": "Tim",
+              "greek": "Μάλλον ένα καραφάκι κι ένα μπουκάλι νερό.",
+              "phonetic": "[málon éna karafáki] [ki éna bukáli neró]",
+              "english": "I’d rather (have) a small carafe (of ouzo) and a bottle of water."
+            }
+          ],
+          "vocab": [
+            {
+              "greek": "καταλαβαίνω",
+              "phonetic": "katalavéno",
+              "english": "understand"
+            },
+            {
+              "greek": "τίποτα",
+              "phonetic": "típota",
+              "english": "nothing/anything"
+            },
+            {
+              "greek": "όλα",
+              "phonetic": "όla",
+              "english": "everything"
+            },
+            {
+              "greek": "Έλα τώρα! !",
+              "phonetic": "éla tόra",
+              "english": "Come on now!"
+            },
+            {
+              "greek": "το τζατζίκι",
+              "phonetic": "to tzatzíki",
+              "english": "tzatziki (yoghurt-cucumber dip) (n)"
+            },
+            {
+              "greek": "η ταραμοσαλάτα",
+              "phonetic": "i taramosaláta",
+              "english": "taramosalata (f)"
+            },
+            {
+              "greek": "η μελιτζανοσαλάτα",
+              "phonetic": "i melitzanosaláta",
+              "english": "aubergine salad/dip (f)"
+            },
+            {
+              "greek": "θα παραγγείλω εγώ για σένα",
+              "phonetic": "tha parangílo eghό ya séna",
+              "english": "I will (place the) order for you"
+            },
+            {
+              "greek": "να πάρουμε",
+              "phonetic": "na párume",
+              "english": "let’s have"
+            },
+            {
+              "greek": "ο μουσακάς",
+              "phonetic": "o musakás",
+              "english": "moussaka (m) (layers of aubergine, potatoes and minced meat topped with bechamel sauce)"
+            },
+            {
+              "greek": "ντολμαδάκια",
+              "phonetic": "dolmaTHákia",
+              "english": "rice, or rice and minced meat, wrapped in vine leaves"
+            },
+            {
+              "greek": "πιπεριές γεμιστές",
+              "phonetic": "piperiés ghemistés",
+              "english": "green peppers filled with rice, or rice and minced meat"
+            },
+            {
+              "greek": "ό,τι λέει ο κατάλογος",
+              "phonetic": "όti léi o katáloghos",
+              "english": "whatever is on the menu (lit. what-ever the menu says )"
+            },
+            {
+              "greek": "σουτζουκάκια",
+              "phonetic": "sutzukákia",
+              "english": "spicy meatballs in tomato sauce"
+            },
+            {
+              "greek": "η εποχή",
+              "phonetic": "i epochí",
+              "english": "season (f)"
+            },
+            {
+              "greek": "Θα πιείτε κάτι; ?",
+              "phonetic": "tha pyíte káti",
+              "english": "Will you have anything to drink? (lit. will you drink anything? )"
+            },
+            {
+              "greek": "το καραφάκι",
+              "phonetic": "to karafáki",
+              "english": "small carafe of ouzo"
+            },
+            {
+              "greek": "το μπουκάλι",
+              "phonetic": "to bukáli",
+              "english": "bottle (n)"
+            }
+          ]
+        },
+        {
+          "dialogue": [
+            {
+              "speaker": "Υπάλληλος",
+              "greek": "Απ’όλα;",
+              "phonetic": "[ap’óla]?",
+              "english": "(Would you like) everything on it?"
+            },
+            {
+              "speaker": "Tim",
+              "greek": "Τι; Τι είπατε;",
+              "phonetic": "[ti]? [ti ípate]?",
+              "english": "I’m sorry? (lit. what? ) What did you say?"
+            },
+            {
+              "speaker": "Υπάλληλος",
+              "greek": "Θέλετε απ’όλα μέσα στην πίτα;",
+              "phonetic": "[thélete ap’óla] [mésa stin píta]?",
+              "english": "Would you like everything on the pitta bread?"
+            },
+            {
+              "speaker": "Tim",
+              "greek": "Δεν καταλαβαίνω.",
+              "phonetic": "[THen katalavéno]",
+              "english": "I don’t understand."
+            },
+            {
+              "speaker": "Υπάλληλος",
+              "greek": "(απορρημένος) Θέλετε τζατζίκι, κρεμμύδι, ντομάτα;",
+              "phonetic": "[aporiménos] [thélete tzatzíki, kremíTHi, domáta]?",
+              "english": "(confused) Would you like tzatziki, onion(s), tomato(es)?"
+            },
+            {
+              "speaker": "Tim",
+              "greek": "Α! ναι, ναι!",
+              "phonetic": "[a] [ne-ne]!",
+              "english": "But, of course! (lit. Oh yes, yes! )"
+            },
+            {
+              "speaker": "Υπάλληλος",
+              "greek": "Και στα δύο; Και στο καλαμάκι και στο γύρο;",
+              "phonetic": "[ke sta THío]? [ke sto kalamáki] [ke sto ghíro]?",
+              "english": "On both? On both kalamaki and gyro?"
+            },
+            {
+              "speaker": "Tim",
+              "greek": "(απορρημένος) Ναι, ναι(;!).",
+              "phonetic": "[aporiménos] [ne-ne]!?",
+              "english": "( confused) Yes, yes!?"
+            }
+          ],
+          "vocab": [
+            {
+              "greek": "ο πάγκος",
+              "phonetic": "o pángos",
+              "english": "the counter (m)"
+            },
+            {
+              "greek": "απ’όλα",
+              "phonetic": "ap’όla",
+              "english": "everything on it?"
+            },
+            {
+              "greek": "Τι είπατε; ?",
+              "phonetic": "ti ípate",
+              "english": "What did you say?"
+            },
+            {
+              "greek": "Μέσα",
+              "phonetic": "mésa",
+              "english": "on (the pitta) (lit. inside the pitta )"
+            },
+            {
+              "greek": "η πίτα or η πίττα",
+              "phonetic": "i píta",
+              "english": "pitta bread"
+            },
+            {
+              "greek": "απορρημένος/-η/-ο",
+              "phonetic": "aporiménos/-i/-o",
+              "english": "confused"
+            },
+            {
+              "greek": "το κρεμμύδι",
+              "phonetic": "to kremíTHi",
+              "english": "the onion (n)"
+            },
+            {
+              "greek": "η ντομάτα",
+              "phonetic": "i domáta",
+              "english": "the tomato (f)"
+            },
+            {
+              "greek": "και στα δύο; ?",
+              "phonetic": "ke sta THío",
+              "english": "in both?"
+            },
+            {
+              "greek": "και … και …",
+              "phonetic": "ke … ke …",
+              "english": "both … and …"
+            }
+          ]
+        },
+        {
+          "dialogue": [
+            {
+              "speaker": "Υπάλληλος",
+              "greek": "Έχετε εξυπηρετηθεί;",
+              "phonetic": "[éhete eksipiretithí]?",
+              "english": "Have you ordered? (lit. Have you been helped? )"
+            },
+            {
+              "speaker": "Νίκος",
+              "greek": "Όχι. Θα ήθελα ένα χάμπουργκερ με τυρί, τηγανιτές πατάτες και μία κόκα κόλα μικρό μέγεθος.",
+              "phonetic": "[óchi] [tha íthela éna hámburger me tirí] [tighanités patátes] [ke mía kóka kóla] [mikró méghethos]",
+              "english": "No. I’d like a cheeseburger, a portion of French fries, and a small coke (lit. small size )."
+            },
+            {
+              "speaker": "Γιάννης",
+              "greek": "Εγώ θέλω να ρωτήσω κάτι. Τι έχει το Greenburger μέσα;",
+              "phonetic": "[eghó thélo na rotíso káti] [ti échi to grinbérger mésa]?",
+              "english": "I would like to ask something. What’s in the Greenburger?"
+            },
+            {
+              "speaker": "Υπάλληλος",
+              "greek": "Έχει αγγουράκι πίκλα, κρεμμύδι, ντομάτα, πράσινη σαλάτα και dressing.",
+              "phonetic": "[échi anguráki] [píkla] [kremíTHi] [domáta] [prásini saláta ke drésing]",
+              "english": "It has pickles, onions, tomatoes, green salad and dressing."
+            },
+            {
+              "speaker": "Γιάννης",
+              "greek": "Εντάξει, ένα Greenburger γεύμα για μένα με 7up και ένα club σάντουïτς για την Τόνια.",
+              "phonetic": "[endáksi] [éna grínberger gévma ya ména] [me séven ap] [ki’éna klab sánduits] [ya tin tónia]",
+              "english": "All right, a Greenburger menu for me with 7up and a club sandwich or Tonia."
+            },
+            {
+              "speaker": "Υπάλληλος",
+              "greek": "Δεν έχουμε 7up μόνο Sprite.",
+              "phonetic": "[THen éhume séven ap] [móno spráit]",
+              "english": "We don’t have 7up, only Sprite."
+            },
+            {
+              "speaker": "Γιάννης",
+              "greek": "Εντάξει, Sprite τότε …",
+              "phonetic": "[endáksi spráit tóte]",
+              "english": "All right, Sprite, then…"
+            }
+          ],
+          "vocab": [
+            {
+              "greek": "έχετε εξυπηρετηθεί;",
+              "phonetic": "éhete eksipiretithí",
+              "english": "have you been helped/ served?"
+            },
+            {
+              "greek": "το χάμπουργκερ",
+              "phonetic": "to hámburger",
+              "english": "hamburger (n)"
+            },
+            {
+              "greek": "το τυρί",
+              "phonetic": "to tirí",
+              "english": "cheese (n)"
+            },
+            {
+              "greek": "τηγανητές πατάτες",
+              "phonetic": "tighanités patátes",
+              "english": "french fries, chips (lit. fried potatoes )"
+            },
+            {
+              "greek": "μικρός/-ή/-ό",
+              "phonetic": "mikrόs/-í/-ό",
+              "english": "small"
+            },
+            {
+              "greek": "το μέγεθος",
+              "phonetic": "to méghethos",
+              "english": "size (n)"
+            },
+            {
+              "greek": "εγώ θέλω να ρωτήσω κάτι",
+              "phonetic": "",
+              "english": "I’d like to ask something."
+            },
+            {
+              "greek": "θέλω",
+              "phonetic": "thélo",
+              "english": "I want / I’d like"
+            },
+            {
+              "greek": "το αγγουράκι",
+              "phonetic": "to anguráki",
+              "english": "small cucumber (n)"
+            },
+            {
+              "greek": "η πίκλα",
+              "phonetic": "i píkla",
+              "english": "pickle (f)"
+            },
+            {
+              "greek": "το γεύμα",
+              "phonetic": "to ghévma",
+              "english": "meal (n)"
+            },
+            {
+              "greek": "το σάντουϊτς",
+              "phonetic": "to sánduits",
+              "english": "sandwich (n)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "part0015",
+      "title": {
+        "greek": "Πού είναι η Ακρόπολη;",
+        "english": "Where is the Acropolis?"
+      },
+      "sections": [
+        {
+          "dialogue": [],
+          "vocab": [
+            {
+              "greek": "ο Αθηναίος",
+              "phonetic": "o athinéos",
+              "english": "Athenian (m)"
+            },
+            {
+              "greek": "συγγνώμη",
+              "phonetic": "sighnόmi",
+              "english": "excuse me"
+            },
+            {
+              "greek": "πάτε με τα πόδια; ?",
+              "phonetic": "páte me ta pόthia",
+              "english": "are you going on foot?"
+            },
+            {
+              "greek": "με λεωφορείο",
+              "phonetic": "me leoforío",
+              "english": "by bus"
+            },
+            {
+              "greek": "μακριά",
+              "phonetic": "makriá",
+              "english": "far"
+            },
+            {
+              "greek": "τουλάχιστον",
+              "phonetic": "tuláhiston",
+              "english": "at least"
+            },
+            {
+              "greek": "δε μας πειράζει να περπατάμε",
+              "phonetic": "THe mas pirázi na perpatáme",
+              "english": "we don’t mind walking"
+            },
+            {
+              "greek": "ρωτάω-ρωτώ",
+              "phonetic": "rotáo-rotό",
+              "english": "I ask"
+            },
+            {
+              "greek": "μιλάω-μιλώ",
+              "phonetic": "miláo-milό",
+              "english": "I speak"
+            },
+            {
+              "greek": "περπατάω-περπατώ",
+              "phonetic": "perpatáo-perpatό",
+              "english": "I walk"
+            },
+            {
+              "greek": "μας αρέσει",
+              "phonetic": "mas arési",
+              "english": "we like"
+            },
+            {
+              "greek": "να κάνουμε βόλτες",
+              "phonetic": "na kánume vόltes",
+              "english": "to take a stroll (lit. strolls )"
+            },
+            {
+              "greek": "η γυμναστική",
+              "phonetic": "i ghimnastikí",
+              "english": "exercise (f) (lit. gymnastics )"
+            },
+            {
+              "greek": "μείνετε",
+              "phonetic": "mínete",
+              "english": "stay"
+            },
+            {
+              "greek": "μέχρι",
+              "phonetic": "méhri",
+              "english": "until"
+            },
+            {
+              "greek": "Στήλες του Ολυμπίου Διός",
+              "phonetic": "stíles tu olimbíu THiόs",
+              "english": "Temple of Zeus (lit. Olympus Zeus’ Columns )"
+            },
+            {
+              "greek": "στο φανάρι",
+              "phonetic": "sto fanári",
+              "english": "at the traffic lights"
+            },
+            {
+              "greek": "στρίψτε",
+              "phonetic": "strípste",
+              "english": "turn"
+            },
+            {
+              "greek": "δεξιά",
+              "phonetic": "THeksiá",
+              "english": "right"
+            },
+            {
+              "greek": "στο τέλος",
+              "phonetic": "sto télos",
+              "english": "at the end"
+            },
+            {
+              "greek": "η ανηφόρα",
+              "phonetic": "i anifόra",
+              "english": "uphill (f)"
+            },
+            {
+              "greek": "θα δείτε",
+              "phonetic": "tha THíte",
+              "english": "you will see"
+            },
+            {
+              "greek": "αριστερά",
+              "phonetic": "aristerá",
+              "english": "left"
+            },
+            {
+              "greek": "στα δεξιά σας",
+              "phonetic": "sta THeksiá sas",
+              "english": "on your right"
+            }
+          ]
+        },
+        {
+          "dialogue": [],
+          "vocab": [
+            {
+              "greek": "η Αθηναία",
+              "phonetic": "i athinéa",
+              "english": "the Athenian (f)"
+            },
+            {
+              "greek": "ο περαστικός",
+              "phonetic": "o perastikόs",
+              "english": "passer-by (m)"
+            },
+            {
+              "greek": "με συγχωρείτε",
+              "phonetic": "me sinhoríte",
+              "english": "I’m sorry/excuse me"
+            },
+            {
+              "greek": "πρώτη",
+              "phonetic": "prόti",
+              "english": "first"
+            },
+            {
+              "greek": "η γωνία",
+              "phonetic": "i ghonía",
+              "english": "corner (f)"
+            },
+            {
+              "greek": "μπροστά",
+              "phonetic": "brostá",
+              "english": "in front"
+            },
+            {
+              "greek": "μπροστά σας!",
+              "phonetic": "brostá sas",
+              "english": "(directly) in front of you"
+            },
+            {
+              "greek": "πιο σιγά",
+              "phonetic": "pyo sighá",
+              "english": "slower"
+            },
+            {
+              "greek": "στη γωνία",
+              "phonetic": "sti ghonía",
+              "english": "on the corner"
+            },
+            {
+              "greek": "να!",
+              "phonetic": "na!",
+              "english": "there!"
+            },
+            {
+              "greek": "Δε βλέπετε; ?",
+              "phonetic": "THe vlépete",
+              "english": "Can’t you see?"
+            }
+          ]
+        },
+        {
+          "dialogue": [],
+          "vocab": [
+            {
+              "greek": "η είσοδος",
+              "phonetic": "i ísoTHos",
+              "english": "entrance (f)"
+            },
+            {
+              "greek": "εκεί",
+              "phonetic": "ekí",
+              "english": "there"
+            },
+            {
+              "greek": "εκεί πάνω! !",
+              "phonetic": "ekí páno",
+              "english": "over there!"
+            },
+            {
+              "greek": "ανεβείτε",
+              "phonetic": "anevíte",
+              "english": "go up"
+            },
+            {
+              "greek": "το σκαλοπάτι",
+              "phonetic": "to skalopáti",
+              "english": "step (n)"
+            },
+            {
+              "greek": "κουρασμένος",
+              "phonetic": "kurazménos",
+              "english": "tired"
+            },
+            {
+              "greek": "απλά",
+              "phonetic": "aplá",
+              "english": "simply"
+            },
+            {
+              "greek": "από εδώ",
+              "phonetic": "apό eTHό",
+              "english": "from here"
+            },
+            {
+              "greek": "πίσω από",
+              "phonetic": "píso apό",
+              "english": "behind"
+            },
+            {
+              "greek": "αυτά τα δέντρα",
+              "phonetic": "aftá ta THéndra",
+              "english": "these trees"
+            },
+            {
+              "greek": "το δέντρο",
+              "phonetic": "to THéndro",
+              "english": "tree (n)"
+            },
+            {
+              "greek": "πενήντα (50)",
+              "phonetic": "penínda",
+              "english": "fifty"
+            },
+            {
+              "greek": "μέτρα",
+              "phonetic": "métra",
+              "english": "metres"
+            },
+            {
+              "greek": "επιτέλους! !",
+              "phonetic": "epitélus",
+              "english": "at last!"
+            },
+            {
+              "greek": "φτάσαμε",
+              "phonetic": "ftásame",
+              "english": "we arrived"
+            },
+            {
+              "greek": "αντέχω",
+              "phonetic": "andého",
+              "english": "I stand"
+            },
+            {
+              "greek": "δεν αντέχω την πολλή ζέστη",
+              "phonetic": "THen andého tin polí zésti",
+              "english": "I can’t stand too much heat"
+            },
+            {
+              "greek": "αλήθεια! !",
+              "phonetic": "alíthia",
+              "english": "really! / that’s true!"
+            },
+            {
+              "greek": "κάνει πολύ ζέστη",
+              "phonetic": "káni polí zésti",
+              "english": "it is very hot"
+            }
+          ]
+        },
+        {
+          "dialogue": [],
+          "vocab": [
+            {
+              "greek": "μερικά",
+              "phonetic": "meriká",
+              "english": "some"
+            },
+            {
+              "greek": "τα αξιοθέατα",
+              "phonetic": "ta aksiothéata",
+              "english": "sights"
+            },
+            {
+              "greek": "ο Λυκαβηττός",
+              "phonetic": "o likavitόs",
+              "english": "a hill in the centre of Athens (There are splendid views of the city from the top: reach it by cable car or walk up.)"
+            },
+            {
+              "greek": "η πλατεία",
+              "phonetic": "i platía",
+              "english": "square (f)"
+            },
+            {
+              "greek": "το Κολωνάκι",
+              "phonetic": "to kolonáki",
+              "english": "High-class neighbourhood in central Athens (with the most expensive real estate, full of expensive stores and trendy street cafés and pubs)."
+            },
+            {
+              "greek": "εύκολο",
+              "phonetic": "éfkolo",
+              "english": "easy"
+            },
+            {
+              "greek": "παντού",
+              "phonetic": "pandú",
+              "english": "everywhere"
+            },
+            {
+              "greek": "ειδικά",
+              "phonetic": "iTHiká",
+              "english": "especially, particularly"
+            },
+            {
+              "greek": "πάνω",
+              "phonetic": "páno",
+              "english": "on the top"
+            },
+            {
+              "greek": "από πού να ξεκινήσουμε; ?",
+              "phonetic": "apό pu na ksekinísume",
+              "english": "where to start?"
+            },
+            {
+              "greek": "μέσα",
+              "phonetic": "mésa",
+              "english": "in, inside"
+            },
+            {
+              "greek": "έπειτα",
+              "phonetic": "épita",
+              "english": "afterwards, then"
+            },
+            {
+              "greek": "γράφω",
+              "phonetic": "ghráfo",
+              "english": "to write"
+            },
+            {
+              "greek": "ο χάρτης",
+              "phonetic": "o hártis",
+              "english": "map (m)"
+            },
+            {
+              "greek": "ίσως",
+              "phonetic": "ísos",
+              "english": "maybe, perhaps"
+            },
+            {
+              "greek": "ύστερα",
+              "phonetic": "ístera",
+              "english": "later on"
+            },
+            {
+              "greek": "δείχνω",
+              "phonetic": "THíhno",
+              "english": "to show"
+            },
+            {
+              "greek": "προς",
+              "phonetic": "pros",
+              "english": "to, towards"
+            },
+            {
+              "greek": "θέλεις να έρθεις; ?",
+              "phonetic": "thélis na érthis",
+              "english": "do you want to come?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "part0016",
+      "title": {
+        "greek": "Καλό ταξίδι!",
+        "english": "Have a nice trip!"
+      },
+      "sections": [
+        {
+          "dialogue": [],
+          "vocab": [
+            {
+              "greek": "καθίστε",
+              "phonetic": "kathíste",
+              "english": "take a seat, sit down"
+            },
+            {
+              "greek": "σκέπτομαι",
+              "phonetic": "sképtome",
+              "english": "I think, I plan"
+            },
+            {
+              "greek": "Σκεπτόμαστε να πάμε",
+              "phonetic": "skeptόmaste na páme",
+              "english": "we are thinking of going"
+            },
+            {
+              "greek": "κατά την διάρκεια",
+              "phonetic": "katá tin THiárkia",
+              "english": "(idiom) during"
+            },
+            {
+              "greek": "βοηθάω/βοηθώ",
+              "phonetic": "voitháo/voithό",
+              "english": "I help"
+            },
+            {
+              "greek": "ας δούμε πρώτα",
+              "phonetic": "as THúme prόta",
+              "english": "let’s see first"
+            },
+            {
+              "greek": "πετάω/πετώ",
+              "phonetic": "petáo/petό",
+              "english": "I fly"
+            },
+            {
+              "greek": "υπάρχει",
+              "phonetic": "ipárchi",
+              "english": "there is"
+            },
+            {
+              "greek": "η πτήση",
+              "phonetic": "i ptísi",
+              "english": "flight (f)"
+            },
+            {
+              "greek": "υπάρχουν",
+              "phonetic": "ipárhun",
+              "english": "there are"
+            },
+            {
+              "greek": "πόση ώρα είναι η πτήση; ?",
+              "phonetic": "pόsi όra íne i ptísi",
+              "english": "how long is the flight? (lit. how much time is the flight? )"
+            },
+            {
+              "greek": "περίπου",
+              "phonetic": "perípu",
+              "english": "around, about, approximately"
+            },
+            {
+              "greek": "το λεπτό",
+              "phonetic": "to leptό",
+              "english": "minute (n)"
+            },
+            {
+              "greek": "πόσο κάνει το εισιτήριο;",
+              "phonetic": "",
+              "english": "how much is the ticket? [pόso káni to isitírio]?"
+            },
+            {
+              "greek": "Με όλες τις εταιρίες",
+              "phonetic": "me όles tis eteríes",
+              "english": "with every airline (lit. with all the companies )"
+            },
+            {
+              "greek": "η αεροπορική εταιρία",
+              "phonetic": "i aeroporikí etería",
+              "english": "airline company (f)"
+            },
+            {
+              "greek": "απλός/-ή/-ό",
+              "phonetic": "aplόs/-í/-ό",
+              "english": "simple (adj.)"
+            },
+            {
+              "greek": "απλή μετάβαση",
+              "phonetic": "aplí metávasi",
+              "english": "one-way, single"
+            },
+            {
+              "greek": "μετ’επιστροφής",
+              "phonetic": "met’epistrofís",
+              "english": "round trip, return (lit. with return )"
+            },
+            {
+              "greek": "διακοπές",
+              "phonetic": "THiakopés",
+              "english": "vacation"
+            }
+          ]
+        },
+        {
+          "dialogue": [],
+          "vocab": [
+            {
+              "greek": "ακριβά",
+              "phonetic": "akrivá",
+              "english": "expensive"
+            },
+            {
+              "greek": "το δρομολόγιο",
+              "phonetic": "to THromolόyio",
+              "english": "timetable (n)"
+            },
+            {
+              "greek": "πρέπει να πάτε",
+              "phonetic": "prépi na páte",
+              "english": "you have to go"
+            },
+            {
+              "greek": "το γραφείο",
+              "phonetic": "to ghrafío",
+              "english": "office (n)"
+            },
+            {
+              "greek": "κάνει",
+              "phonetic": "káni",
+              "english": "costs (here)"
+            },
+            {
+              "greek": "η θέση",
+              "phonetic": "i thési",
+              "english": "class (f)"
+            },
+            {
+              "greek": "η κράτηση",
+              "phonetic": "i krátisi",
+              "english": "reservation (f)"
+            },
+            {
+              "greek": "πάρτε ένα από απέναντι",
+              "phonetic": "párte éna apό apénandi",
+              "english": "get one from across (the room)"
+            }
+          ]
+        },
+        {
+          "dialogue": [],
+          "vocab": [
+            {
+              "greek": "η πληροφορία",
+              "phonetic": "i pliroforía",
+              "english": "information (f)"
+            },
+            {
+              "greek": "γραφείο πληροφοριών",
+              "phonetic": "ghrafío pliroforiόn",
+              "english": "information desk"
+            },
+            {
+              "greek": "το κτίριο",
+              "phonetic": "to ktírio",
+              "english": "building (n)"
+            },
+            {
+              "greek": "κάθε πότε;",
+              "phonetic": "káthe pόte",
+              "english": "how often (lit. every when ) ?"
+            },
+            {
+              "greek": "φεύγω",
+              "phonetic": "févgho",
+              "english": "I leave"
+            },
+            {
+              "greek": "σε μισή ώρα",
+              "phonetic": "se misí όra",
+              "english": "in half an hour"
+            },
+            {
+              "greek": "η θέση",
+              "phonetic": "i thési",
+              "english": "seat (f)"
+            },
+            {
+              "greek": "πόση ώρα κάνει; ?",
+              "phonetic": "pόsi όra kání",
+              "english": "how long does it take?"
+            },
+            {
+              "greek": "το απλό",
+              "phonetic": "to aplό",
+              "english": "one-way (n)"
+            },
+            {
+              "greek": "με επιστροφή",
+              "phonetic": "me epistrofí",
+              "english": "return, round-trip"
+            },
+            {
+              "greek": "πριν",
+              "phonetic": "prin",
+              "english": "in advance (lit. before )"
+            },
+            {
+              "greek": "τίποτα",
+              "phonetic": "típota",
+              "english": "not at all, don’t mention it! (lit. nothing )"
+            }
+          ]
+        },
+        {
+          "dialogue": [],
+          "vocab": [
+            {
+              "greek": "ο ταξιτζής",
+              "phonetic": "o taksitzís",
+              "english": "taxi/cab driver"
+            },
+            {
+              "greek": "ο επιβάτης",
+              "phonetic": "o epivátis",
+              "english": "passenger (m)"
+            },
+            {
+              "greek": "το αεροδρόμιο",
+              "phonetic": "to aeroTHrόmio",
+              "english": "airport (n)"
+            },
+            {
+              "greek": "μπερδεύω",
+              "phonetic": "berTHévo",
+              "english": "I mix up/confuse"
+            },
+            {
+              "greek": "ο καιρός",
+              "phonetic": "o kerόs",
+              "english": "time/weather (m)"
+            },
+            {
+              "greek": "έχουμε καιρό",
+              "phonetic": "éhume kerό",
+              "english": "there’s time / we don’t need to rush (lit. we have time )"
+            },
+            {
+              "greek": "η κίνηση",
+              "phonetic": "i kínisi",
+              "english": "traffic (f)"
+            },
+            {
+              "greek": "η αποσκευή",
+              "phonetic": "i aposkeví",
+              "english": "luggage/suitcase (f)"
+            },
+            {
+              "greek": "τις αποσκευές σας",
+              "phonetic": "tis aposkevés sas",
+              "english": "your luggage (lit. the suitcases your )"
+            },
+            {
+              "greek": "οφείλω",
+              "phonetic": "ofílo",
+              "english": "I owe"
+            },
+            {
+              "greek": "κρατήστε τα ρέστα",
+              "phonetic": "kratíste ta résta",
+              "english": "keep the change"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "part0017",
+      "title": {
+        "greek": "Έχετε δωμάτια;",
+        "english": "Do you have any rooms?"
+      },
+      "sections": [
+        {
+          "dialogue": [],
+          "vocab": [
+            {
+              "greek": "ψάχνω",
+              "phonetic": "psáhno",
+              "english": "I’m looking for"
+            },
+            {
+              "greek": "το δωμάτιο",
+              "phonetic": "to THomátio",
+              "english": "room (n)"
+            },
+            {
+              "greek": "η ενοικίαση",
+              "phonetic": "i enikíasi",
+              "english": "rent (f)"
+            },
+            {
+              "greek": "για ενοικίαση",
+              "phonetic": "ya enikíasi",
+              "english": "for rent"
+            },
+            {
+              "greek": "απ ’ εδώ! !",
+              "phonetic": "ap’eTHό",
+              "english": "this way! (lit. from here )"
+            },
+            {
+              "greek": "το αυτοκίνητο!",
+              "phonetic": "to aftokínito",
+              "english": "car (n)"
+            },
+            {
+              "greek": "η βαλίτσα",
+              "phonetic": "i valítsa",
+              "english": "suitcase (f)"
+            },
+            {
+              "greek": "νάτο! !",
+              "phonetic": "náto",
+              "english": "here it is! (also να το!)"
+            },
+            {
+              "greek": "δε μου αρέσει! !",
+              "phonetic": "THe mu arési",
+              "english": "I don’t like (it)!"
+            },
+            {
+              "greek": "καλύτερος/-η/-ο",
+              "phonetic": "kalíteros/-i/-o",
+              "english": "better"
+            },
+            {
+              "greek": "μεγαλύτερος/-η/-ο",
+              "phonetic": "meghalíteros/-i/-o",
+              "english": "larger"
+            },
+            {
+              "greek": "πιο",
+              "phonetic": "pyo",
+              "english": "more"
+            },
+            {
+              "greek": "ήσυχος/-η/-ο",
+              "phonetic": "ísihos/-i/-o",
+              "english": "quiet"
+            },
+            {
+              "greek": "παίρνω",
+              "phonetic": "pérno",
+              "english": "I take"
+            },
+            {
+              "greek": "θα το πάρω",
+              "phonetic": "tha to páro",
+              "english": "I will take it"
+            },
+            {
+              "greek": "ο ντόπιος",
+              "phonetic": "o dόpios",
+              "english": "local person (m)"
+            },
+            {
+              "greek": "ο τουρίστας",
+              "phonetic": "o turístas",
+              "english": "tourist (m)"
+            }
+          ]
+        },
+        {
+          "dialogue": [],
+          "vocab": [
+            {
+              "greek": "η ρεσεψιόν",
+              "phonetic": "i resepsiόn",
+              "english": "reception desk (f)"
+            },
+            {
+              "greek": "ο/η υπάλληλος υποδοχής (Υπ.υπ)",
+              "phonetic": "o/i ipálilos ipoTHochís",
+              "english": "receptionist (m/f)"
+            },
+            {
+              "greek": "μονόκλινο",
+              "phonetic": "monόklino",
+              "english": "single room"
+            },
+            {
+              "greek": "δίκλινο",
+              "phonetic": "THíklino",
+              "english": "double room"
+            },
+            {
+              "greek": "φαρδύς/-ιά/-ύ",
+              "phonetic": "farTHís/-iá/-í",
+              "english": "wide"
+            },
+            {
+              "greek": "που βλέπει",
+              "phonetic": "pu vlépi",
+              "english": "facing (lit. that faces/sees )"
+            },
+            {
+              "greek": "εσωτερικός/-ή/-ό",
+              "phonetic": "esoterikόs/-í/-ό",
+              "english": "inner, inside"
+            },
+            {
+              "greek": "η αυλή",
+              "phonetic": "i avlí",
+              "english": "courtyard (f)"
+            },
+            {
+              "greek": "συμπληρώστε",
+              "phonetic": "simblirόste",
+              "english": "fill out"
+            },
+            {
+              "greek": "η κάρτα παραμονής",
+              "phonetic": "i kárta paramonís",
+              "english": "registration card"
+            },
+            {
+              "greek": "υπογράψτε",
+              "phonetic": "ipoghrápste",
+              "english": "sign"
+            },
+            {
+              "greek": "στον έκτο όροφο",
+              "phonetic": "ston ékto όrofo",
+              "english": "on the sixth floor"
+            },
+            {
+              "greek": "Ελάτε να σας πάω",
+              "phonetic": "élate na sas páo",
+              "english": "I’ll take you there (lit. I’ll go you there )"
+            },
+            {
+              "greek": "ο γκρουμ",
+              "phonetic": "o grum",
+              "english": "porter"
+            },
+            {
+              "greek": "η τουρίστρια",
+              "phonetic": "i turístria",
+              "english": "tourist (f)"
+            }
+          ]
+        },
+        {
+          "dialogue": [],
+          "vocab": [
+            {
+              "greek": "ονομάζομαι",
+              "phonetic": "onomázome",
+              "english": "my name is (lit. I am called/named )"
+            },
+            {
+              "greek": "η κράτηση",
+              "phonetic": "i krátisi",
+              "english": "reservation (f)"
+            },
+            {
+              "greek": "έχω κάνει κράτηση",
+              "phonetic": "ého káni krátisi",
+              "english": "I have made a reservation"
+            },
+            {
+              "greek": "καλώς ορίσατε!",
+              "phonetic": "kalόs orísate",
+              "english": "welcome!"
+            },
+            {
+              "greek": "γράψτε",
+              "phonetic": "ghrápste",
+              "english": "write down"
+            },
+            {
+              "greek": "η διεύθυνση",
+              "phonetic": "i THiéfthinsi",
+              "english": "address (f)"
+            },
+            {
+              "greek": "ο αριθμός",
+              "phonetic": "o arithmόs",
+              "english": "number (m)"
+            },
+            {
+              "greek": "το διαβατήριο",
+              "phonetic": "to THiavatírio",
+              "english": "passport (n)"
+            },
+            {
+              "greek": "ο στυλός/το στυλό",
+              "phonetic": "o stilόs/to stilό",
+              "english": "pen (m/n)"
+            },
+            {
+              "greek": "ευχαρίστως",
+              "phonetic": "efharístos",
+              "english": "gladly"
+            },
+            {
+              "greek": "θα προτιμούσαμε",
+              "phonetic": "tha protimúsame",
+              "english": "we would like/prefer"
+            },
+            {
+              "greek": "μόλις βγείτε από το ασανσέρ",
+              "phonetic": "mόlis vghíte apό to asansér",
+              "english": "just as you come out/ step out of the lift"
+            },
+            {
+              "greek": "το κλειδί",
+              "phonetic": "to kliTHí",
+              "english": "key (n)"
+            },
+            {
+              "greek": "καλή διαμονή! !",
+              "phonetic": "kalí THiamoní",
+              "english": "(have) a good stay!"
+            },
+            {
+              "greek": "στο τέλος του διαδρόμου",
+              "phonetic": "sto télos tu THiaTHrόmu",
+              "english": "at the end of the corridor"
+            },
+            {
+              "greek": "το τέλος",
+              "phonetic": "to télos",
+              "english": "end (n)"
+            },
+            {
+              "greek": "ο διάδρομος",
+              "phonetic": "o THiáTHromos",
+              "english": "corridor (m)"
+            },
+            {
+              "greek": "ο ρεσεψιονίστας",
+              "phonetic": "o resepsionístas",
+              "english": "receptionist (m)"
+            }
+          ]
+        },
+        {
+          "dialogue": [],
+          "vocab": [
+            {
+              "greek": "ναι!",
+              "phonetic": "ne",
+              "english": "hello (on the phone)"
+            },
+            {
+              "greek": "το μπάνιο",
+              "phonetic": "to bánio",
+              "english": "bathroom/tub (n)"
+            },
+            {
+              "greek": "η κουρτίνα",
+              "phonetic": "i kurtína",
+              "english": "curtain (f)"
+            },
+            {
+              "greek": "το ντους",
+              "phonetic": "to duz",
+              "english": "shower (n)"
+            },
+            {
+              "greek": "μα … κανένα μπάνιο δεν έχει κουρτίνα",
+              "phonetic": "ma kanéna bánio THen échi kurtína",
+              "english": "but … none of the bathrooms has a curtain"
+            },
+            {
+              "greek": "κάνω ντους",
+              "phonetic": "káno duz",
+              "english": "take a shower"
+            },
+            {
+              "greek": "μα τα νερά;",
+              "phonetic": "ma ta nerá",
+              "english": "but the water? How about the water? (lit. the waters )"
+            },
+            {
+              "greek": "το νερό",
+              "phonetic": "to nerό",
+              "english": "water (n)"
+            },
+            {
+              "greek": "μη στεναχωριέστε καθόλου!",
+              "phonetic": "mi stenahoriéste kathόlu",
+              "english": "don’t worry at all!"
+            },
+            {
+              "greek": "στεναχωριέμαι",
+              "phonetic": "stenahoriéme",
+              "english": "I worry"
+            },
+            {
+              "greek": "στεγνώνω",
+              "phonetic": "steghnόno",
+              "english": "I dry up"
+            },
+            {
+              "greek": "γρήγορα",
+              "phonetic": "ghríghora",
+              "english": "fast"
+            },
+            {
+              "greek": "γρήγορα-γρήγορα",
+              "phonetic": "ghríghora- ghríghora",
+              "english": "extremely fast"
+            },
+            {
+              "greek": "απορρημένος/-η/-o",
+              "phonetic": "aporiménos/-i/-o",
+              "english": "confused"
+            },
+            {
+              "greek": "κλείνει το τηλέφωνο",
+              "phonetic": "klíni to tiléfono",
+              "english": "she hangs up (the phone) (lit. she closes the phone )"
+            },
+            {
+              "greek": "το τηλέφωνο",
+              "phonetic": "to tiléfono",
+              "english": "telephone (n)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "part0018",
+      "title": {
+        "greek": "Θέλετε τίποτα;",
+        "english": "How can I help you?"
+      },
+      "sections": [
+        {
+          "dialogue": [],
+          "vocab": [
+            {
+              "greek": "χρειάζομαι",
+              "phonetic": "hriázome",
+              "english": "I need"
+            },
+            {
+              "greek": "τα ψώνια",
+              "phonetic": "to psόnia",
+              "english": "shopping (pl.)"
+            },
+            {
+              "greek": "θα ήθελα",
+              "phonetic": "tha íthela",
+              "english": "I would like"
+            },
+            {
+              "greek": "το φόρεμα",
+              "phonetic": "to fόrema",
+              "english": "dress (n)"
+            },
+            {
+              "greek": "τα καλλυντικά",
+              "phonetic": "ta kalindiká",
+              "english": "cosmetics (pl.)"
+            },
+            {
+              "greek": "το πουκάμισο",
+              "phonetic": "to pukámiso",
+              "english": "shirt (n)"
+            },
+            {
+              "greek": "η παρέα",
+              "phonetic": "i paréa",
+              "english": "company (f)"
+            },
+            {
+              "greek": "θέλεις παρέα; ?",
+              "phonetic": "thélis paréa",
+              "english": "do you want company?"
+            },
+            {
+              "greek": "καλύτερος/-η/-ο",
+              "phonetic": "kalíteros/-i/-o",
+              "english": "better"
+            },
+            {
+              "greek": "μαζί μου",
+              "phonetic": "mazí mu",
+              "english": "with me"
+            },
+            {
+              "greek": "μαζί",
+              "phonetic": "mazí",
+              "english": "together"
+            },
+            {
+              "greek": "ίσως",
+              "phonetic": "ísos",
+              "english": "perhaps"
+            },
+            {
+              "greek": "καινούργιος/-α/-ο",
+              "phonetic": "kenúrios/-a/-o",
+              "english": "new"
+            },
+            {
+              "greek": "η κρέμα",
+              "phonetic": "i kréma",
+              "english": "cream (f)"
+            },
+            {
+              "greek": "το πρόσωπο",
+              "phonetic": "to prόsopo",
+              "english": "face (n)"
+            },
+            {
+              "greek": "η κολώνια",
+              "phonetic": "i kolόnia",
+              "english": "cologne/perfume (f)"
+            },
+            {
+              "greek": "η κρέμα μου θα τελειώσει",
+              "phonetic": "i kréma mu tha teliόsi",
+              "english": "my cream will be running out"
+            },
+            {
+              "greek": "τελειώνω",
+              "phonetic": "teliόno",
+              "english": "I complete/I end/I run out"
+            },
+            {
+              "greek": "σύντομα",
+              "phonetic": "síndoma",
+              "english": "shortly/soon"
+            },
+            {
+              "greek": "πού λες να πάμε; ?",
+              "phonetic": "pu les na páme",
+              "english": "where do you think we should go? (lit. where are you saying we go? )"
+            },
+            {
+              "greek": "το πολυκατάστημα",
+              "phonetic": "to polikatástima",
+              "english": "department store"
+            },
+            {
+              "greek": "πάμε! !",
+              "phonetic": "páme",
+              "english": "(let’s) go!"
+            },
+            {
+              "greek": "άντε, πάμε! !",
+              "phonetic": "ánde páme",
+              "english": "OK, let’s get going!"
+            }
+          ]
+        },
+        {
+          "dialogue": [],
+          "vocab": [
+            {
+              "greek": "ανδρικός/-ή/-ό",
+              "phonetic": "andrikόs/-í/-ό",
+              "english": "(something) for men, men’s"
+            },
+            {
+              "greek": "το τμήμα",
+              "phonetic": "to tmíma",
+              "english": "section (n)"
+            },
+            {
+              "greek": "στο τμήμα ανδρικών",
+              "phonetic": "sto tmíma andrikόn",
+              "english": "at the men’s section"
+            },
+            {
+              "greek": "ανεβαίνω",
+              "phonetic": "anevéno",
+              "english": "I go up"
+            },
+            {
+              "greek": "η σκάλα",
+              "phonetic": "i skála",
+              "english": "staircase (f)"
+            },
+            {
+              "greek": "η κλειστοφοβία",
+              "phonetic": "i klistofovía",
+              "english": "claustrophobia (f)"
+            },
+            {
+              "greek": "κυλιόμενες σκάλες",
+              "phonetic": "kiliόmenes skáles",
+              "english": "escalators"
+            },
+            {
+              "greek": "κυλιόμενος/-η/-ο",
+              "phonetic": "kiliόmenos/-i/-o",
+              "english": "rolling, on rollers"
+            },
+            {
+              "greek": "τι λες; ?",
+              "phonetic": "ti les",
+              "english": "how about it?"
+            },
+            {
+              "greek": "βρίσκω",
+              "phonetic": "vrísko",
+              "english": "I find"
+            },
+            {
+              "greek": "η ποικιλία",
+              "phonetic": "i pikilía",
+              "english": "selection (f)"
+            },
+            {
+              "greek": "σίγουρος/-η/-ο",
+              "phonetic": "síghuros/-i/-o",
+              "english": "sure"
+            },
+            {
+              "greek": "είμαι σίγουρη",
+              "phonetic": "íme síghuri",
+              "english": "I’m sure"
+            },
+            {
+              "greek": "κοίτα! !",
+              "phonetic": "kíta",
+              "english": "look!"
+            },
+            {
+              "greek": "κοιτάζω",
+              "phonetic": "kitázo",
+              "english": "I look"
+            },
+            {
+              "greek": "σκούρος/-α/-ο",
+              "phonetic": "skúros/-a/-o",
+              "english": "dark"
+            },
+            {
+              "greek": "ανοικτός/-ή/-ό",
+              "phonetic": "aniktόs/-í/-ό",
+              "english": "light"
+            },
+            {
+              "greek": "το χρώμα",
+              "phonetic": "to hrόma",
+              "english": "colour (n)"
+            },
+            {
+              "greek": "φοράω(-ώ)",
+              "phonetic": "foráo(-ό)",
+              "english": "I wear"
+            },
+            {
+              "greek": "το μονόχρωμο",
+              "phonetic": "to monόhromo",
+              "english": "single colour"
+            },
+            {
+              "greek": "άσπρο",
+              "phonetic": "áspro",
+              "english": "white"
+            },
+            {
+              "greek": "σιέλ",
+              "phonetic": "siél",
+              "english": "sky blue"
+            },
+            {
+              "greek": "κίτρινο",
+              "phonetic": "kítrino",
+              "english": "yellow"
+            },
+            {
+              "greek": "καφέ",
+              "phonetic": "kafé",
+              "english": "brown"
+            },
+            {
+              "greek": "ριγέ",
+              "phonetic": "righé",
+              "english": "striped"
+            },
+            {
+              "greek": "το μέγεθος",
+              "phonetic": "to mégethos",
+              "english": "size (n)"
+            },
+            {
+              "greek": "μεσαίο",
+              "phonetic": "meséo",
+              "english": "medium"
+            },
+            {
+              "greek": "το νούμερο",
+              "phonetic": "to número",
+              "english": "number, size (n)"
+            }
+          ]
+        },
+        {
+          "dialogue": [],
+          "vocab": [
+            {
+              "greek": "η αγορά",
+              "phonetic": "i aghorá",
+              "english": "market (f)"
+            },
+            {
+              "greek": "λαïκή αγορά",
+              "phonetic": "laikí aghorá",
+              "english": "fruit, vegetable, and flower market (lit. popular market )"
+            },
+            {
+              "greek": "η Τρίτη",
+              "phonetic": "i tríti",
+              "english": "Tuesday"
+            },
+            {
+              "greek": "θα πάμε",
+              "phonetic": "tha páme",
+              "english": "we will go"
+            },
+            {
+              "greek": "θα φάμε",
+              "phonetic": "tha fáme",
+              "english": "we will eat"
+            },
+            {
+              "greek": "η νοικοκυρά",
+              "phonetic": "i nikokirá",
+              "english": "housewife (f)"
+            },
+            {
+              "greek": "παρόμοιος/-α/-ο",
+              "phonetic": "parόmios/-a/-o",
+              "english": "similar"
+            },
+            {
+              "greek": "τέλος πάντων",
+              "phonetic": "télos pándon",
+              "english": "at last, anyhow"
+            },
+            {
+              "greek": "κόβω",
+              "phonetic": "kόvo",
+              "english": "I cut"
+            },
+            {
+              "greek": "μαχαιρώνω",
+              "phonetic": "maherόno",
+              "english": "I cut/slice something with a knife"
+            },
+            {
+              "greek": "όλα τα κόβω, όλα τα μαχαιρώνω",
+              "phonetic": "όla ta kόvo όla ta maherόno",
+              "english": "common expression used by farmers meaning that their produce is of such good quality that they are willing to let you try it before you buy"
+            },
+            {
+              "greek": "λέω",
+              "phonetic": "léo",
+              "english": "I say"
+            },
+            {
+              "greek": "μη σε νοιάζει",
+              "phonetic": "mi se niázi",
+              "english": "never mind"
+            },
+            {
+              "greek": "το μήλο",
+              "phonetic": "to mílo",
+              "english": "apple (n)"
+            },
+            {
+              "greek": "πιο κάτω",
+              "phonetic": "pyo káto",
+              "english": "further down"
+            },
+            {
+              "greek": "το πορτοκάλι",
+              "phonetic": "to portokáli",
+              "english": "orange (n)"
+            },
+            {
+              "greek": "κυρ",
+              "phonetic": "kir",
+              "english": "Mr"
+            },
+            {
+              "greek": "ο ξένος",
+              "phonetic": "o ksénos",
+              "english": "foreigner (n)"
+            },
+            {
+              "greek": "μεγαλύτερος/-η/-ο",
+              "phonetic": "meghalíteros/-i/-o",
+              "english": "larger"
+            },
+            {
+              "greek": "η Τρίπολη",
+              "phonetic": "i trípoli",
+              "english": "Tripolis (Greek town)"
+            },
+            {
+              "greek": "νόστιμος/-η/-ο",
+              "phonetic": "nόstimos/-i/-o",
+              "english": "delicious"
+            },
+            {
+              "greek": "μέρλι ( ν )",
+              "phonetic": "mérli(n)",
+              "english": "extremely sweet"
+            },
+            {
+              "greek": "που λένε",
+              "phonetic": "pu léne",
+              "english": "as they say, as the rumour goes"
+            },
+            {
+              "greek": "το κιλό",
+              "phonetic": "to kilό",
+              "english": "kilo (n)"
+            },
+            {
+              "greek": "το μαρούλι",
+              "phonetic": "to marúli",
+              "english": "lettuce (n)"
+            },
+            {
+              "greek": "χόρτα",
+              "phonetic": "hόrta",
+              "english": "greens"
+            },
+            {
+              "greek": "δίπλα μου",
+              "phonetic": "THípla mu",
+              "english": "next to me"
+            }
+          ]
+        },
+        {
+          "dialogue": [],
+          "vocab": [
+            {
+              "greek": "η ποιότητα",
+              "phonetic": "i piόtita",
+              "english": "quality (f)"
+            },
+            {
+              "greek": "η γεύση",
+              "phonetic": "i ghéfsi",
+              "english": "taste (f)"
+            },
+            {
+              "greek": "ΠΛ. = πλατεία",
+              "phonetic": "platía",
+              "english": "sq. = square"
+            },
+            {
+              "greek": "η δόση",
+              "phonetic": "i THόsi",
+              "english": "instalment (f)"
+            },
+            {
+              "greek": "η πιστωτική κάρτα",
+              "phonetic": "i pistotikí kárta",
+              "english": "credit card (f)"
+            },
+            {
+              "greek": "ετήσιος/-α/-ο",
+              "phonetic": "etísios/-a/-o",
+              "english": "annual"
+            },
+            {
+              "greek": "το επιτόκιο",
+              "phonetic": "to epitόkio",
+              "english": "interest"
+            },
+            {
+              "greek": "ΦΠΑ",
+              "phonetic": "fi-pi-á",
+              "english": "VAT"
+            },
+            {
+              "greek": "π.μ. = προ μεσημβρίας",
+              "phonetic": "pro mesimvrías",
+              "english": "a.m. = ante meridiem"
+            },
+            {
+              "greek": "μ.μ. = μετά μεσημβρίας",
+              "phonetic": "metá mesimvrías",
+              "english": "pm. = post meridiem"
+            },
+            {
+              "greek": "η λέσχη",
+              "phonetic": "i léschi",
+              "english": "club (f)"
+            },
+            {
+              "greek": "ο δίσκος",
+              "phonetic": "o THískos",
+              "english": "record (m)"
+            },
+            {
+              "greek": "το Μέγαρο Μουσικής",
+              "phonetic": "to mégharo musikís",
+              "english": "Music Hall (n)"
+            },
+            {
+              "greek": "κλασικός/-ή/-ό",
+              "phonetic": "klasikόs/-í/-o",
+              "english": "classic"
+            },
+            {
+              "greek": "η Ευρώπη",
+              "phonetic": "i evrόpi",
+              "english": "Europe (f)"
+            },
+            {
+              "greek": "κατά τις ημέρες των παραστάσεων",
+              "phonetic": "katá tis iméres ton parastáseon",
+              "english": "during performance days"
+            },
+            {
+              "greek": "η παράσταση",
+              "phonetic": "i parástasi",
+              "english": "performance"
+            },
+            {
+              "greek": "πληροφορίες",
+              "phonetic": "pliroforíes",
+              "english": "information"
+            },
+            {
+              "greek": "το δώρο",
+              "phonetic": "to THόro",
+              "english": "present (n)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "part0020",
+      "title": {
+        "greek": "Έλα! ποιος είναι;",
+        "english": "Ηello! who is it?"
+      },
+      "sections": [
+        {
+          "dialogue": [],
+          "vocab": [
+            {
+              "greek": "έχετε τηλέφωνο;",
+              "phonetic": "",
+              "english": "Is there a public phone ( I can use ) ? (lit. Do you have a phone ( I can use ) ? )"
+            },
+            {
+              "greek": "χαλασμένος/-η/-ο",
+              "phonetic": "",
+              "english": "out of order"
+            },
+            {
+              "greek": "το περίπτερο",
+              "phonetic": "",
+              "english": "kiosk (n)/ newsstand"
+            },
+            {
+              "greek": "τοπικός/-ή/-ό",
+              "phonetic": "",
+              "english": "local"
+            },
+            {
+              "greek": "υπεραστικός/-ή/-ό",
+              "phonetic": "",
+              "english": "long distance"
+            },
+            {
+              "greek": "παίρνει τον αριθμό",
+              "phonetic": "",
+              "english": "he dials (lit. takes ) the number"
+            },
+            {
+              "greek": "λέγομαι",
+              "phonetic": "",
+              "english": "my name is (lit. I am called )"
+            },
+            {
+              "greek": "θα ήθελα",
+              "phonetic": "",
+              "english": "I would like"
+            },
+            {
+              "greek": "θα ήθελα να κλείσω ένα ραντεβού",
+              "phonetic": "",
+              "english": "I’d like to make an appointment (lit. ‘close’ an appointment )"
+            },
+            {
+              "greek": "το ραντεβού",
+              "phonetic": "",
+              "english": "appointment (n)"
+            },
+            {
+              "greek": "θα μπορούσε",
+              "phonetic": "",
+              "english": "he would be able to, he could"
+            },
+            {
+              "greek": "αν είναι δυνατόν",
+              "phonetic": "",
+              "english": "if it is possible"
+            },
+            {
+              "greek": "ο περιπτεράς",
+              "phonetic": "",
+              "english": "news stand salesperson/owner (m)"
+            }
+          ]
+        },
+        {
+          "dialogue": [],
+          "vocab": [
+            {
+              "greek": "παρακαλώ;",
+              "phonetic": "",
+              "english": "What can I do for you? How can I help you?"
+            },
+            {
+              "greek": "καθίστε",
+              "phonetic": "",
+              "english": "sit down"
+            },
+            {
+              "greek": "τ’όνομά σας;",
+              "phonetic": "",
+              "english": "your name?"
+            },
+            {
+              "greek": "ονομάζομαι",
+              "phonetic": "",
+              "english": "my name is (lit. I‘m named )"
+            },
+            {
+              "greek": "ο/η συνάδελφος",
+              "phonetic": "",
+              "english": "colleague"
+            },
+            {
+              "greek": "δουλεύω",
+              "phonetic": "",
+              "english": "I work"
+            },
+            {
+              "greek": "θα τον πάρω στο εσωτερικό …",
+              "phonetic": "",
+              "english": "I’ll call his extension ( line )"
+            },
+            {
+              "greek": "κατεβάζει το ακουστικό",
+              "phonetic": "",
+              "english": "she is hanging up the receiver"
+            },
+            {
+              "greek": "το ακουστικό",
+              "phonetic": "",
+              "english": "receiver (n)"
+            },
+            {
+              "greek": "φωνάζω",
+              "phonetic": "",
+              "english": "I call"
+            },
+            {
+              "greek": "ακολουθείστε με",
+              "phonetic": "",
+              "english": "follow me"
+            },
+            {
+              "greek": "χαίρετε",
+              "phonetic": "",
+              "english": "hello (formal)"
+            },
+            {
+              "greek": "πάρτε μια καρέκλα",
+              "phonetic": "",
+              "english": "take a seat"
+            },
+            {
+              "greek": "τα χαιρετίσματα",
+              "phonetic": "",
+              "english": "greetings/regards"
+            },
+            {
+              "greek": "εκ μέρους σας",
+              "phonetic": "",
+              "english": "on your behalf"
+            },
+            {
+              "greek": "θερμότερος/-η/-ο",
+              "phonetic": "",
+              "english": "warmer"
+            },
+            {
+              "greek": "τις θερμότερες ευχές μου",
+              "phonetic": "",
+              "english": "my warmest wishes"
+            },
+            {
+              "greek": "η ευχή",
+              "phonetic": "",
+              "english": "wish (f)"
+            },
+            {
+              "greek": "φιλικότερος/-η/-ο",
+              "phonetic": "",
+              "english": "friendlier"
+            },
+            {
+              "greek": "τα φιλικότερα χαιρετίσματα μου",
+              "phonetic": "",
+              "english": "my best (lit. friendlier ) regards"
+            },
+            {
+              "greek": "να μην το ξεχάσετε!",
+              "phonetic": "",
+              "english": "don’t forget that!"
+            },
+            {
+              "greek": "ξεχνώ",
+              "phonetic": "",
+              "english": "I forget"
+            }
+          ]
+        },
+        {
+          "dialogue": [],
+          "vocab": [
+            {
+              "greek": "να σας γνωρίσω …",
+              "phonetic": "",
+              "english": "let me introduce … to you"
+            },
+            {
+              "greek": "χαίρω πολύ",
+              "phonetic": "",
+              "english": "glad to meet you"
+            },
+            {
+              "greek": "προσπαθώ",
+              "phonetic": "",
+              "english": "I try"
+            },
+            {
+              "greek": "η κάρτα",
+              "phonetic": "",
+              "english": "card (f)"
+            },
+            {
+              "greek": "υπέροχα",
+              "phonetic": "",
+              "english": "excellent"
+            },
+            {
+              "greek": "μακάρι",
+              "phonetic": "",
+              "english": "I wish/would that/if only/may"
+            },
+            {
+              "greek": "προσφέρω",
+              "phonetic": "",
+              "english": "I offer"
+            },
+            {
+              "greek": "το αναψυκτικό",
+              "phonetic": "",
+              "english": "refreshment (n)"
+            },
+            {
+              "greek": "αν δεν σας κάνει κόπο",
+              "phonetic": "",
+              "english": "if it’s no trouble (to you)"
+            },
+            {
+              "greek": "η τράπεζα",
+              "phonetic": "",
+              "english": "bank (f)"
+            },
+            {
+              "greek": "ελπίζω",
+              "phonetic": "",
+              "english": "I hope"
+            },
+            {
+              "greek": "ξεκινώ",
+              "phonetic": "",
+              "english": "I start"
+            },
+            {
+              "greek": "η συνεργασία",
+              "phonetic": "",
+              "english": "co-operation (f)"
+            },
+            {
+              "greek": "εύχομαι",
+              "phonetic": "",
+              "english": "I wish/I hope"
+            },
+            {
+              "greek": "το σύστημα",
+              "phonetic": "",
+              "english": "system (n)"
+            },
+            {
+              "greek": "τραπεζικός/-ή/-ό",
+              "phonetic": "",
+              "english": "banking"
+            }
+          ]
+        },
+        {
+          "dialogue": [],
+          "vocab": [
+            {
+              "greek": "αρκετός/-ή/-ό",
+              "phonetic": "",
+              "english": "several"
+            },
+            {
+              "greek": "η ομοιότητα",
+              "phonetic": "",
+              "english": "resemblance (f)"
+            },
+            {
+              "greek": "ίδιος/-α/-ο",
+              "phonetic": "",
+              "english": "similar"
+            },
+            {
+              "greek": "πάνω από",
+              "phonetic": "",
+              "english": "more than (lit. over than )"
+            },
+            {
+              "greek": "ιδιωτικός/-ή/-ό",
+              "phonetic": "",
+              "english": "private"
+            },
+            {
+              "greek": "εκτός από",
+              "phonetic": "",
+              "english": "except for"
+            },
+            {
+              "greek": "κρατικός/-ή/-ό",
+              "phonetic": "",
+              "english": "state"
+            },
+            {
+              "greek": "εθνικός/-ή/-ό",
+              "phonetic": "",
+              "english": "national"
+            },
+            {
+              "greek": "εμπορικός/-ή/-ό",
+              "phonetic": "",
+              "english": "commercial"
+            },
+            {
+              "greek": "η πίστωση",
+              "phonetic": "",
+              "english": "credit (f)"
+            },
+            {
+              "greek": "Ιονικός/-ή/-ό",
+              "phonetic": "",
+              "english": "Ionian"
+            },
+            {
+              "greek": "αγροτικός/ -ή/ -ό",
+              "phonetic": "",
+              "english": "agricultural"
+            },
+            {
+              "greek": "η εργασία",
+              "phonetic": "",
+              "english": "labour (f)"
+            },
+            {
+              "greek": "σχεδόν",
+              "phonetic": "",
+              "english": "almost"
+            },
+            {
+              "greek": "η μηχανή",
+              "phonetic": "",
+              "english": "machine (f)"
+            },
+            {
+              "greek": "δέχομαι",
+              "phonetic": "",
+              "english": "I accept"
+            },
+            {
+              "greek": "δίνω",
+              "phonetic": "",
+              "english": "I give"
+            },
+            {
+              "greek": "το συνάλλαγμα",
+              "phonetic": "",
+              "english": "exchange (n)"
+            },
+            {
+              "greek": "μέχρι",
+              "phonetic": "",
+              "english": "until"
+            },
+            {
+              "greek": "ξένος/-η/-ο",
+              "phonetic": "",
+              "english": "foreign"
+            },
+            {
+              "greek": "κανένας/καμία/κανένα",
+              "phonetic": "",
+              "english": "somebody (m)/ somebody (f)/ something (n)"
+            },
+            {
+              "greek": "τα λεφτά",
+              "phonetic": "",
+              "english": "money (pl.)"
+            },
+            {
+              "greek": "και τα δύο",
+              "phonetic": "",
+              "english": "both (lit. and the two )"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "part0021",
+      "title": {
+        "greek": "Eίχα ένα τρομερό πονοκέφαλο!",
+        "english": "I had a terrible headache!"
+      },
+      "sections": [
+        {
+          "dialogue": [],
+          "vocab": [
+            {
+              "greek": "ήσουν",
+              "phonetic": "",
+              "english": "you were"
+            },
+            {
+              "greek": "(ε)χθές/(ε)χτές",
+              "phonetic": "",
+              "english": "yesterday"
+            },
+            {
+              "greek": "σε χάσαμε",
+              "phonetic": "",
+              "english": "we missed you"
+            },
+            {
+              "greek": "αδιάθετος/-η/-ο",
+              "phonetic": "",
+              "english": "sick (not feeling well)"
+            },
+            {
+              "greek": "είχα",
+              "phonetic": "",
+              "english": "I had"
+            },
+            {
+              "greek": "τρομερός/-ή/-ό",
+              "phonetic": "",
+              "english": "awful, terrible"
+            },
+            {
+              "greek": "ο πονοκέφαλος",
+              "phonetic": "",
+              "english": "headache (m)"
+            },
+            {
+              "greek": "ο πόνος",
+              "phonetic": "",
+              "english": "pain (m)"
+            },
+            {
+              "greek": "το κεφάλι",
+              "phonetic": "",
+              "english": "head (n)"
+            },
+            {
+              "greek": "κι έτσι",
+              "phonetic": "",
+              "english": "so, because of that"
+            },
+            {
+              "greek": "έμεινα",
+              "phonetic": "",
+              "english": "I stayed"
+            },
+            {
+              "greek": "το σπίτι",
+              "phonetic": "",
+              "english": "house (n)"
+            },
+            {
+              "greek": "όλα βούιζαν στο κεφάλι μου",
+              "phonetic": "",
+              "english": "my head was spinning"
+            },
+            {
+              "greek": "πήγες;",
+              "phonetic": "",
+              "english": "did you go?"
+            },
+            {
+              "greek": "ο/η γιατρός",
+              "phonetic": "",
+              "english": "doctor (m + f)"
+            },
+            {
+              "greek": "το φαρμακείο",
+              "phonetic": "",
+              "english": "chemist’s/pharmacy"
+            },
+            {
+              "greek": "ο/η φαρμακοποιός",
+              "phonetic": "",
+              "english": "chemist (m + f)"
+            },
+            {
+              "greek": "έδωσε",
+              "phonetic": "",
+              "english": "she gave"
+            },
+            {
+              "greek": "ισχυρός/-ή/-ό",
+              "phonetic": "",
+              "english": "strong"
+            },
+            {
+              "greek": "το χάπι",
+              "phonetic": "",
+              "english": "pill (n)"
+            },
+            {
+              "greek": "η ημικρανία",
+              "phonetic": "",
+              "english": "migraine (f)"
+            },
+            {
+              "greek": "το παιδί",
+              "phonetic": "",
+              "english": "child (n)"
+            },
+            {
+              "greek": "κάθισες",
+              "phonetic": "",
+              "english": "you stayed (lit. you sat down )"
+            },
+            {
+              "greek": "καθόμουν",
+              "phonetic": "",
+              "english": "I had been sitting"
+            },
+            {
+              "greek": "συνέχεια",
+              "phonetic": "",
+              "english": "continually"
+            },
+            {
+              "greek": "βαρέθηκα",
+              "phonetic": "",
+              "english": "I was bored"
+            },
+            {
+              "greek": "ήρθα",
+              "phonetic": "",
+              "english": "I came"
+            },
+            {
+              "greek": "ήρθα στην δουλειά να πάρω λίγο καθαρό αέρα!",
+              "phonetic": "",
+              "english": "I came to work to get some fresh air!"
+            },
+            {
+              "greek": "νόμισα",
+              "phonetic": "",
+              "english": "I thought"
+            },
+            {
+              "greek": "σκληρά",
+              "phonetic": "",
+              "english": "hard"
+            }
+          ]
+        },
+        {
+          "dialogue": [],
+          "vocab": [
+            {
+              "greek": "καλή βδομάδα!",
+              "phonetic": "",
+              "english": "have a good week!"
+            },
+            {
+              "greek": "περάσατε",
+              "phonetic": "",
+              "english": "you spent"
+            },
+            {
+              "greek": "το Σαββατοκύριακο",
+              "phonetic": "",
+              "english": "weekend (lit. Saturday– Sunday )"
+            },
+            {
+              "greek": "πουθενά",
+              "phonetic": "",
+              "english": "nowhere/anywhere"
+            },
+            {
+              "greek": "τι να σου πω;",
+              "phonetic": "",
+              "english": "what can I tell you?"
+            },
+            {
+              "greek": "ο εφιάλτης",
+              "phonetic": "",
+              "english": "nightmare (m)"
+            },
+            {
+              "greek": "θέλω να μάθω",
+              "phonetic": "",
+              "english": "I want to know"
+            },
+            {
+              "greek": "έπαθα",
+              "phonetic": "",
+              "english": "I had (lit. I suffered/I went through)"
+            },
+            {
+              "greek": "τροφικός/-ή/-ό",
+              "phonetic": "",
+              "english": "food"
+            },
+            {
+              "greek": "η δηλητηρίαση",
+              "phonetic": "",
+              "english": "poisoning (f)"
+            },
+            {
+              "greek": "έμεινα",
+              "phonetic": "",
+              "english": "I stayed"
+            },
+            {
+              "greek": "το φάρμακο",
+              "phonetic": "",
+              "english": "medicine (n)"
+            },
+            {
+              "greek": "σοβαρός/-ή/-ό",
+              "phonetic": "",
+              "english": "serious"
+            },
+            {
+              "greek": "το νοσοκομείο",
+              "phonetic": "",
+              "english": "hospital (n)"
+            },
+            {
+              "greek": "το κολύμπι",
+              "phonetic": "",
+              "english": "swimming (n)"
+            },
+            {
+              "greek": "το βάδην",
+              "phonetic": "",
+              "english": "walking/jogging (n)"
+            },
+            {
+              "greek": "κολύμπησε",
+              "phonetic": "",
+              "english": "he swam"
+            },
+            {
+              "greek": "αρκετά",
+              "phonetic": "",
+              "english": "enough"
+            },
+            {
+              "greek": "περπάτησε",
+              "phonetic": "",
+              "english": "he walked"
+            },
+            {
+              "greek": "έτρεξε",
+              "phonetic": "",
+              "english": "he ran"
+            },
+            {
+              "greek": "ο/η νοσοκόμος/-α",
+              "phonetic": "",
+              "english": "nurse (m + f)"
+            },
+            {
+              "greek": "μπα!",
+              "phonetic": "",
+              "english": "wow! (surprise)"
+            },
+            {
+              "greek": "η υπερκόπωση",
+              "phonetic": "",
+              "english": "over-exhaustion"
+            },
+            {
+              "greek": "η κόπωση",
+              "phonetic": "",
+              "english": "fatigue, exhaustion"
+            },
+            {
+              "greek": "χρειάζομαι",
+              "phonetic": "",
+              "english": "I need"
+            },
+            {
+              "greek": "η ανάπαυση",
+              "phonetic": "",
+              "english": "rest (f)"
+            },
+            {
+              "greek": "αναπαύομαι",
+              "phonetic": "",
+              "english": "I rest"
+            },
+            {
+              "greek": "δηλαδή",
+              "phonetic": "",
+              "english": "in other words, that is to say"
+            },
+            {
+              "greek": "μην το λες!",
+              "phonetic": "",
+              "english": "I wouldn’t say that!"
+            }
+          ]
+        },
+        {
+          "dialogue": [],
+          "vocab": [
+            {
+              "greek": "άρρωστος/-η/-ο",
+              "phonetic": "",
+              "english": "ill"
+            },
+            {
+              "greek": "χλωμός/-ή/-ό",
+              "phonetic": "",
+              "english": "pale"
+            },
+            {
+              "greek": "φαίνομαι",
+              "phonetic": "",
+              "english": "I look"
+            },
+            {
+              "greek": "έπαθα ναυτία",
+              "phonetic": "",
+              "english": "I was seasick"
+            },
+            {
+              "greek": "η ναυτία",
+              "phonetic": "",
+              "english": "seasickness, nausea"
+            },
+            {
+              "greek": "τι άλλο θα γίνει;",
+              "phonetic": "",
+              "english": "what else is going to happen?"
+            },
+            {
+              "greek": "πολύ μαύρα τα βλέπεις",
+              "phonetic": "",
+              "english": "you see everything black, you are very pessimistic (idiom)"
+            },
+            {
+              "greek": "απαισιόδοξος/-η/-ο",
+              "phonetic": "",
+              "english": "pessimist"
+            },
+            {
+              "greek": "μέρα με την ημέρα",
+              "phonetic": "",
+              "english": "day by day"
+            },
+            {
+              "greek": "συνήθισες",
+              "phonetic": "",
+              "english": "you became used to"
+            },
+            {
+              "greek": "αγάπησες",
+              "phonetic": "",
+              "english": "you loved, you fell in love"
+            },
+            {
+              "greek": "ο/η υπάλληλος",
+              "phonetic": "",
+              "english": "officer (here), clerk, employee (m + f)"
+            },
+            {
+              "greek": "να ήμουν γιατρός!",
+              "phonetic": "",
+              "english": "I wish I were a doctor!"
+            },
+            {
+              "greek": "να ήξερα …",
+              "phonetic": "",
+              "english": "(so I could) know …"
+            },
+            {
+              "greek": "τι έχω πάθει",
+              "phonetic": "",
+              "english": "what I am suffering from"
+            },
+            {
+              "greek": "ο μάγειρας",
+              "phonetic": "",
+              "english": "cook (m)"
+            },
+            {
+              "greek": "να μαγείρευα",
+              "phonetic": "",
+              "english": "(so I could) cook"
+            },
+            {
+              "greek": "ο/η πιλότος",
+              "phonetic": "",
+              "english": "pilot (m + f)"
+            },
+            {
+              "greek": "υψηλός/-ή/-ό",
+              "phonetic": "",
+              "english": "high"
+            },
+            {
+              "greek": "γκρινιάζω",
+              "phonetic": "",
+              "english": "I complain/moan"
+            },
+            {
+              "greek": "έτσι να μην μπορεί να σε",
+              "phonetic": "",
+              "english": "so, it is not possible for"
+            },
+            {
+              "greek": "ακούει κανένας!",
+              "phonetic": "",
+              "english": "anyone to hear you!"
+            },
+            {
+              "greek": "η συμβουλή",
+              "phonetic": "",
+              "english": "advice (f)"
+            }
+          ]
+        },
+        {
+          "dialogue": [],
+          "vocab": [
+            {
+              "greek": "τρέμω",
+              "phonetic": "",
+              "english": "I shiver/I am shivering"
+            },
+            {
+              "greek": "τουρτουρίζω",
+              "phonetic": "",
+              "english": "I am shaking"
+            },
+            {
+              "greek": "με πονάει",
+              "phonetic": "",
+              "english": "it hurts (lit. to me it hurts, or I hurt )"
+            },
+            {
+              "greek": "με πονάει ο αριστερός μου ώμος",
+              "phonetic": "",
+              "english": "my left shoulder hurts"
+            },
+            {
+              "greek": "ο ώμος",
+              "phonetic": "",
+              "english": "shoulder (m)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "part0022",
+      "title": {
+        "greek": "Τι καιρό έκανε;",
+        "english": "What was the weather like?"
+      },
+      "sections": [
+        {
+          "dialogue": [],
+          "vocab": [
+            {
+              "greek": "πες μας",
+              "phonetic": "",
+              "english": "tell us"
+            },
+            {
+              "greek": "είχαμε προγραμματίσει",
+              "phonetic": "",
+              "english": "we had planned"
+            },
+            {
+              "greek": "τόσα πολλά πράγματα",
+              "phonetic": "",
+              "english": "so many things"
+            },
+            {
+              "greek": "ακούγεσαι",
+              "phonetic": "",
+              "english": "you sound"
+            },
+            {
+              "greek": "φαίνεσαι",
+              "phonetic": "",
+              "english": "you look"
+            },
+            {
+              "greek": "στεναχωρημένος/-η/-ο",
+              "phonetic": "",
+              "english": "worried, troubled, concerned"
+            },
+            {
+              "greek": "έχουμε πάει",
+              "phonetic": "",
+              "english": "we have been to (lit. we have gone )"
+            },
+            {
+              "greek": "το γεγονός",
+              "phonetic": "",
+              "english": "event, fact (n)"
+            },
+            {
+              "greek": "δεν έχει ξανασυμβεί",
+              "phonetic": "",
+              "english": "it has never happened (occurred) before"
+            },
+            {
+              "greek": "πω, πω! Θεέ μου!",
+              "phonetic": "",
+              "english": "oh, my goodness!"
+            },
+            {
+              "greek": "μας έχει βγάλει την πίστη!",
+              "phonetic": "",
+              "english": "(lit.) we sweated our guts out!"
+            },
+            {
+              "greek": "τι συνέβη",
+              "phonetic": "",
+              "english": "what happened"
+            },
+            {
+              "greek": "δεν έχω στεναχωρηθεί",
+              "phonetic": "",
+              "english": "I have not been troubled, worried"
+            },
+            {
+              "greek": "ποτέ άλλοτε",
+              "phonetic": "",
+              "english": "never before"
+            },
+            {
+              "greek": "έτσι",
+              "phonetic": "",
+              "english": "like that"
+            },
+            {
+              "greek": "έχουμε τηλεφωνήσει",
+              "phonetic": "",
+              "english": "we have called"
+            },
+            {
+              "greek": "το τριήμερο",
+              "phonetic": "",
+              "english": "long weekend (lit. three-day event )"
+            },
+            {
+              "greek": "έχουν σχεδιάσει",
+              "phonetic": "",
+              "english": "they have planned"
+            },
+            {
+              "greek": "τελικά",
+              "phonetic": "",
+              "english": "at the end, finally"
+            },
+            {
+              "greek": "ο καιρός μας τα χαλάει όλα",
+              "phonetic": "",
+              "english": "the weather messes up everything"
+            },
+            {
+              "greek": "τέλος πάντων",
+              "phonetic": "",
+              "english": "after all"
+            },
+            {
+              "greek": "τέτοιο παλιόκαιρο!",
+              "phonetic": "",
+              "english": "such awful weather!"
+            },
+            {
+              "greek": "εκείνος/-η/-ο",
+              "phonetic": "",
+              "english": "that"
+            },
+            {
+              "greek": "ο Θεός",
+              "phonetic": "",
+              "english": "God (m)"
+            },
+            {
+              "greek": "μη λες τέτοια λόγια!",
+              "phonetic": "",
+              "english": "don’t say this kind of thing (lit. such words )"
+            }
+          ]
+        },
+        {
+          "dialogue": [],
+          "vocab": [
+            {
+              "greek": "όλα ακούγονται μαύρα",
+              "phonetic": "",
+              "english": "everything sounds (is)"
+            },
+            {
+              "greek": "κι άραχνα!",
+              "phonetic": "",
+              "english": "gloom and doom!"
+            },
+            {
+              "greek": "έβρεχε καρεκλοπόδαρα",
+              "phonetic": "",
+              "english": "it was raining (it had been raining) cats and dogs (here) (lit. chair legs )"
+            },
+            {
+              "greek": "δε σταμάτησε ποτέ",
+              "phonetic": "",
+              "english": "it never stopped"
+            },
+            {
+              "greek": "φτάσαμε",
+              "phonetic": "",
+              "english": "we arrived"
+            },
+            {
+              "greek": "επιστρέψαμε",
+              "phonetic": "",
+              "english": "we returned"
+            },
+            {
+              "greek": "η ιστορία",
+              "phonetic": "",
+              "english": "story (f) (lit. history )"
+            },
+            {
+              "greek": "δεν είδατε;",
+              "phonetic": "",
+              "english": "didn’t you watch? (lit. see )"
+            },
+            {
+              "greek": "δε φάγατε;",
+              "phonetic": "",
+              "english": "didn’t you eat?"
+            },
+            {
+              "greek": "δε μιλήσατε;",
+              "phonetic": "",
+              "english": "didn’t you talk?"
+            },
+            {
+              "greek": "να ακούσουμε",
+              "phonetic": "",
+              "english": "to listen to"
+            },
+            {
+              "greek": "το ράδιο",
+              "phonetic": "",
+              "english": "radio (n)"
+            },
+            {
+              "greek": "του σκασμού!",
+              "phonetic": "",
+              "english": "(eating) to bursting point!"
+            },
+            {
+              "greek": "το κάστρο",
+              "phonetic": "",
+              "english": "castle (n)"
+            },
+            {
+              "greek": "θα μας οδηγούσαν",
+              "phonetic": "",
+              "english": "they would drive us"
+            },
+            {
+              "greek": "οι Θερμοπύλες",
+              "phonetic": "",
+              "english": "an archaeological site"
+            },
+            {
+              "greek": "το θέρετρο",
+              "phonetic": "",
+              "english": "resort (n)"
+            },
+            {
+              "greek": "το μπάνιο",
+              "phonetic": "",
+              "english": "swim (n)"
+            },
+            {
+              "greek": "για μπάνιο",
+              "phonetic": "",
+              "english": "for swimming"
+            },
+            {
+              "greek": "πού τέτοια τύχη όμως!",
+              "phonetic": "",
+              "english": "we were out of luck! No such luck!"
+            },
+            {
+              "greek": "αντί",
+              "phonetic": "",
+              "english": "instead"
+            },
+            {
+              "greek": "έχει γυρίσματα ο τροχός!",
+              "phonetic": "",
+              "english": "the tables turn! (Greek expression)"
+            },
+            {
+              "greek": "ο τροχός",
+              "phonetic": "",
+              "english": "wheel (m)"
+            },
+            {
+              "greek": "η ευκαιρία",
+              "phonetic": "",
+              "english": "chance (f)"
+            },
+            {
+              "greek": "του χρόνου!",
+              "phonetic": "",
+              "english": "next year !"
+            }
+          ]
+        },
+        {
+          "dialogue": [],
+          "vocab": [
+            {
+              "greek": "έχουμε αποφασίσει",
+              "phonetic": "",
+              "english": "we have decided"
+            },
+            {
+              "greek": "ούτε … ούτε …",
+              "phonetic": "",
+              "english": "neither … nor …"
+            },
+            {
+              "greek": "του παραχρόνου",
+              "phonetic": "",
+              "english": "the year after next"
+            },
+            {
+              "greek": "βρε",
+              "phonetic": "",
+              "english": "adds emphasis to a statement"
+            },
+            {
+              "greek": "ο καιρός",
+              "phonetic": "",
+              "english": "weather (m)"
+            },
+            {
+              "greek": "η λιακάδα",
+              "phonetic": "",
+              "english": "sunshine (f)"
+            },
+            {
+              "greek": "δροσερός/-ή/-ό",
+              "phonetic": "",
+              "english": "cool"
+            },
+            {
+              "greek": "το αεράκι",
+              "phonetic": "",
+              "english": "(little) wind, breeze (n)"
+            },
+            {
+              "greek": "ο αέρας",
+              "phonetic": "",
+              "english": "wind (m)"
+            },
+            {
+              "greek": "λένε ότι",
+              "phonetic": "",
+              "english": "rumour has it that (lit. it is said that )"
+            },
+            {
+              "greek": "μπορεί να βρέξει",
+              "phonetic": "",
+              "english": "it might rain"
+            },
+            {
+              "greek": "το δίκιο",
+              "phonetic": "",
+              "english": "right (n)"
+            },
+            {
+              "greek": "προχθές",
+              "phonetic": "",
+              "english": "the day before yesterday"
+            },
+            {
+              "greek": "έριξε χαλάζι",
+              "phonetic": "",
+              "english": "it hailed (lit. hail was dropped )"
+            },
+            {
+              "greek": "το χαλάζι",
+              "phonetic": "",
+              "english": "hail (n)"
+            },
+            {
+              "greek": "βρεγμένος/-η/-ο",
+              "phonetic": "",
+              "english": "wet"
+            },
+            {
+              "greek": "επικίνδυνος/-η/-ο",
+              "phonetic": "",
+              "english": "dangerous"
+            },
+            {
+              "greek": "έχω έλθει",
+              "phonetic": "",
+              "english": "I have come"
+            },
+            {
+              "greek": "βροχές και χιόνια",
+              "phonetic": "",
+              "english": "rain and snow (lit. rains and snows – they are both plural)"
+            },
+            {
+              "greek": "το κρύο",
+              "phonetic": "",
+              "english": "cold (n)"
+            },
+            {
+              "greek": "η παγωνιά",
+              "phonetic": "",
+              "english": "frost (f)"
+            },
+            {
+              "greek": "ο ήλιος",
+              "phonetic": "",
+              "english": "sun (m)"
+            },
+            {
+              "greek": "η θάλασσα",
+              "phonetic": "",
+              "english": "sea (f)"
+            },
+            {
+              "greek": "η αμμουδιά",
+              "phonetic": "",
+              "english": "sand (f)"
+            },
+            {
+              "greek": "δεν σε έστειλε",
+              "phonetic": "",
+              "english": "you were not sent"
+            },
+            {
+              "greek": "η Καβάλα/η Ξάνθη",
+              "phonetic": "",
+              "english": "towns in northern Greece"
+            },
+            {
+              "greek": "εκεί να δεις χειμώνες!",
+              "phonetic": "",
+              "english": "there you (could) realize (lit. see ) winters!"
+            },
+            {
+              "greek": "ο χειμώνας",
+              "phonetic": "",
+              "english": "winter (m)"
+            },
+            {
+              "greek": "η άνοιξη",
+              "phonetic": "",
+              "english": "spring (f)"
+            },
+            {
+              "greek": "περίμενα πώς και πώς",
+              "phonetic": "",
+              "english": "I looked forward to (idiom), I was very eager/excited …"
+            },
+            {
+              "greek": "η εποχή",
+              "phonetic": "",
+              "english": "season (f)"
+            },
+            {
+              "greek": "αυτό να λέγεται!",
+              "phonetic": "",
+              "english": "that goes without saying!"
+            },
+            {
+              "greek": "πράγματι",
+              "phonetic": "",
+              "english": "indeed"
+            }
+          ]
+        },
+        {
+          "dialogue": [],
+          "vocab": [
+            {
+              "greek": "η θερμοκρασία",
+              "phonetic": "",
+              "english": "temperature (f)"
+            },
+            {
+              "greek": "το εξωτερικό",
+              "phonetic": "",
+              "english": "abroad, overseas (n)"
+            },
+            {
+              "greek": "η Λευκωσία",
+              "phonetic": "",
+              "english": "Nicosia (Cyprus)"
+            },
+            {
+              "greek": "η θάλασσα",
+              "phonetic": "",
+              "english": "sea (f)"
+            },
+            {
+              "greek": "ταραγμένος/-η/-ο",
+              "phonetic": "",
+              "english": "rough (sea)"
+            },
+            {
+              "greek": "η τρικυμία",
+              "phonetic": "",
+              "english": "storm , tempest (f)"
+            },
+            {
+              "greek": "ασθενής/-ής/-ές",
+              "phonetic": "",
+              "english": "weak"
+            },
+            {
+              "greek": "ισχυρός/-ή/-ό",
+              "phonetic": "",
+              "english": "strong"
+            },
+            {
+              "greek": "θυελλώδης/-ης/-ες",
+              "phonetic": "",
+              "english": "stormy , thundery"
+            },
+            {
+              "greek": "η θύελλα",
+              "phonetic": "",
+              "english": "storm , hurricane (f)"
+            },
+            {
+              "greek": "τοπικός/-ή/-ό",
+              "phonetic": "",
+              "english": "local"
+            },
+            {
+              "greek": "τοπικές νεφώσεις",
+              "phonetic": "",
+              "english": "hazy (cloudy) in places"
+            },
+            {
+              "greek": "τοπικές βροχές",
+              "phonetic": "",
+              "english": "local (scattered) showers"
+            },
+            {
+              "greek": "το νέφος",
+              "phonetic": "",
+              "english": "smog (n)"
+            },
+            {
+              "greek": "νεφελώδης/-ης/-ες",
+              "phonetic": "",
+              "english": "cloudy , overcast"
+            },
+            {
+              "greek": "βορειοανατολικός/-ή/-ό",
+              "phonetic": "",
+              "english": "north - eastern"
+            },
+            {
+              "greek": "βορειοδυτικός/-ή/-ό",
+              "phonetic": "",
+              "english": "north - western"
+            },
+            {
+              "greek": "ήρεμος/-η/-ο",
+              "phonetic": "",
+              "english": "tranquil , quiet"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "part0023",
+      "title": {
+        "greek": "Πού πήγατε για Πάσχα;",
+        "english": "Where did you go for Easter?"
+      },
+      "sections": [
+        {
+          "dialogue": [],
+          "vocab": [
+            {
+              "greek": "είχαμε πάει",
+              "phonetic": "",
+              "english": "we had gone"
+            },
+            {
+              "greek": "η Ανάσταση",
+              "phonetic": "",
+              "english": "Resurrection (f)"
+            },
+            {
+              "greek": "πού κάνατε Ανάσταση ;",
+              "phonetic": "",
+              "english": "Where did you celebrate Easter? (lit. where did you spend (do) Resurrection? )"
+            },
+            {
+              "greek": "μας είχε καλέσει",
+              "phonetic": "",
+              "english": "he had invited us"
+            },
+            {
+              "greek": "η Μεγάλη (Ε)βδομάδα",
+              "phonetic": "",
+              "english": "Holy Week"
+            },
+            {
+              "greek": "ακουστά το έχω",
+              "phonetic": "",
+              "english": "I’ve heard about it"
+            },
+            {
+              "greek": "το είχαμε ξανακούσει",
+              "phonetic": "",
+              "english": "we had heard it before"
+            },
+            {
+              "greek": "γνωρίσαμε",
+              "phonetic": "",
+              "english": "we met"
+            },
+            {
+              "greek": "παραδοσιακός/-ή/-ό",
+              "phonetic": "",
+              "english": "traditional"
+            },
+            {
+              "greek": "ο οικισμός",
+              "phonetic": "",
+              "english": "settlement (m)"
+            },
+            {
+              "greek": "που άντεξε",
+              "phonetic": "",
+              "english": "that withstood, survived"
+            },
+            {
+              "greek": "ο σεισμός",
+              "phonetic": "",
+              "english": "earthquake (m)"
+            },
+            {
+              "greek": "ήρεμος/-η/-ο",
+              "phonetic": "",
+              "english": "tranquil"
+            },
+            {
+              "greek": "η ζωή",
+              "phonetic": "",
+              "english": "life (f)"
+            },
+            {
+              "greek": "το γιωτ/η θαλαμηγός",
+              "phonetic": "",
+              "english": "yacht (n)"
+            },
+            {
+              "greek": "το κότ(τ)ερο",
+              "phonetic": "",
+              "english": "cutter (n)"
+            },
+            {
+              "greek": "το ιστιοφόρο",
+              "phonetic": "",
+              "english": "sailing boat (n)"
+            },
+            {
+              "greek": "φημισμένος/-η/-ο",
+              "phonetic": "",
+              "english": "famous"
+            },
+            {
+              "greek": "οπωσδήποτε",
+              "phonetic": "",
+              "english": "definitely"
+            },
+            {
+              "greek": "η ψαροταβέρνα",
+              "phonetic": "",
+              "english": "fish taverna (f)"
+            },
+            {
+              "greek": "φάγατε;",
+              "phonetic": "",
+              "english": "did you eat?"
+            },
+            {
+              "greek": "δηλαδή",
+              "phonetic": "",
+              "english": "in other words"
+            },
+            {
+              "greek": "είχαν ήδη βάλει",
+              "phonetic": "",
+              "english": "they had already prepared (put)"
+            },
+            {
+              "greek": "ήδη",
+              "phonetic": "",
+              "english": "already"
+            },
+            {
+              "greek": "το αρνάκι",
+              "phonetic": "",
+              "english": "lamb (n)"
+            },
+            {
+              "greek": "αρνάκι στο φούρνο",
+              "phonetic": "",
+              "english": "lamb in the stove (oven)"
+            },
+            {
+              "greek": "το κατσικάκι",
+              "phonetic": "",
+              "english": "kid, young goat (n)"
+            },
+            {
+              "greek": "κατσικάκι στη σούβλα",
+              "phonetic": "",
+              "english": "kid on the spit"
+            },
+            {
+              "greek": "τι λες βρε παιδί μου ;",
+              "phonetic": "",
+              "english": "what are you telling me, my dear? (lit. what are you saying, my child? )"
+            },
+            {
+              "greek": "τόσο καλό;",
+              "phonetic": "",
+              "english": "so good?"
+            },
+            {
+              "greek": "πού να σας λέμε",
+              "phonetic": "",
+              "english": "where (how) can we start? What can we tell you?"
+            }
+          ]
+        },
+        {
+          "dialogue": [],
+          "vocab": [
+            {
+              "greek": "γιόρταζες ;",
+              "phonetic": "",
+              "english": "have you had your name day? (here) (or birthday )"
+            },
+            {
+              "greek": "γιορτάζω",
+              "phonetic": "",
+              "english": "I have/I celebrate my birthday or name day"
+            },
+            {
+              "greek": "η γιορτή",
+              "phonetic": "",
+              "english": "holiday (f) /celebration"
+            },
+            {
+              "greek": "χρόνια πολλά !",
+              "phonetic": "",
+              "english": "many happy returns! (lit. many years )"
+            },
+            {
+              "greek": "χρόνια σου πολλά",
+              "phonetic": "",
+              "english": "many happy returns to you!"
+            },
+            {
+              "greek": "να ζήσεις !",
+              "phonetic": "",
+              "english": "may you live long!/enjoy your life!"
+            },
+            {
+              "greek": "εκπλήσσω",
+              "phonetic": "",
+              "english": "I surprise (εκπλήττω/εκπλήσσω)"
+            },
+            {
+              "greek": "η ευχή",
+              "phonetic": "",
+              "english": "wish (f)"
+            },
+            {
+              "greek": "είχαμε υποσχεθεί",
+              "phonetic": "",
+              "english": "we had promised"
+            },
+            {
+              "greek": "ο καθηγητής",
+              "phonetic": "",
+              "english": "teacher, tutor (m)"
+            },
+            {
+              "greek": "μαθαίνω",
+              "phonetic": "",
+              "english": "I learn"
+            },
+            {
+              "greek": "χρησιμοποιώ",
+              "phonetic": "",
+              "english": "I use"
+            },
+            {
+              "greek": "ιδού λοιπόν !",
+              "phonetic": "",
+              "english": "here you go!/here’s the proof!"
+            },
+            {
+              "greek": "μπράβο σας !",
+              "phonetic": "",
+              "english": "well done (to you), Bravo!"
+            },
+            {
+              "greek": "τώρα θυμήθηκα",
+              "phonetic": "",
+              "english": "I’ve just remembered (lit. now I remembered )"
+            },
+            {
+              "greek": "να χαίρεσαι τη γυναίκα σου !",
+              "phonetic": "",
+              "english": "congratulations to your wife! (lit. enjoy your wife!)"
+            },
+            {
+              "greek": "κι εσείς ό,τι επιθυμείτε !",
+              "phonetic": "",
+              "english": "may your wish come true! (lit. and whatever you like/wish! )"
+            },
+            {
+              "greek": "ό, τι",
+              "phonetic": "",
+              "english": "whatever"
+            },
+            {
+              "greek": "επιθυμώ",
+              "phonetic": "",
+              "english": "I wish, I desire"
+            },
+            {
+              "greek": "σ’έπιασα",
+              "phonetic": "",
+              "english": "I got you (idiom)"
+            },
+            {
+              "greek": "πιάνω",
+              "phonetic": "",
+              "english": "I catch, I hold"
+            }
+          ]
+        },
+        {
+          "dialogue": [],
+          "vocab": [
+            {
+              "greek": "είχε κιόλας μιλήσει σε",
+              "phonetic": "",
+              "english": "(he) had already talked to"
+            },
+            {
+              "greek": "το σκάφος",
+              "phonetic": "",
+              "english": "motorboat (n)"
+            },
+            {
+              "greek": "δε μας έχετε πει ακόμα",
+              "phonetic": "",
+              "english": "you haven’t told us yet"
+            },
+            {
+              "greek": "βόρειος/-α/-ο",
+              "phonetic": "",
+              "english": "northern"
+            },
+            {
+              "greek": "πες το",
+              "phonetic": "",
+              "english": "say it, come out with it!"
+            },
+            {
+              "greek": "κρατάω (- ώ )",
+              "phonetic": "",
+              "english": "keep"
+            },
+            {
+              "greek": "το μυστικό",
+              "phonetic": "",
+              "english": "secret (n)"
+            },
+            {
+              "greek": "και που λέτε …",
+              "phonetic": "",
+              "english": "to continue my story, on that subject then (idiom) (lit. and that you are saying… )"
+            },
+            {
+              "greek": "είχαμε περάσει",
+              "phonetic": "",
+              "english": "we had sailed"
+            },
+            {
+              "greek": "το νησί",
+              "phonetic": "",
+              "english": "island (n)"
+            },
+            {
+              "greek": "ο Ωνάσης",
+              "phonetic": "",
+              "english": "Onasis (a Greek tycoon, shipowner, businessman, and owner of Scorpio island)"
+            },
+            {
+              "greek": "σταματήσαμε",
+              "phonetic": "",
+              "english": "we stopped"
+            },
+            {
+              "greek": "πριν να φτάσουμε",
+              "phonetic": "",
+              "english": "before arriving/getting (lit. before we (to) arrive )"
+            },
+            {
+              "greek": "δεν είχαμε κοιμηθεί καθόλου",
+              "phonetic": "",
+              "english": "we hadn’t slept at all"
+            },
+            {
+              "greek": "φυσικά",
+              "phonetic": "",
+              "english": "of course, naturally"
+            },
+            {
+              "greek": "έπρεπε να",
+              "phonetic": "",
+              "english": "we had to"
+            },
+            {
+              "greek": "την άλλη μέρα",
+              "phonetic": "",
+              "english": "the next (lit. other ) day"
+            },
+            {
+              "greek": "ο γνωστός/-ή/-ό",
+              "phonetic": "",
+              "english": "acquaintance, known (person or thing)"
+            }
+          ]
+        },
+        {
+          "dialogue": [],
+          "vocab": [
+            {
+              "greek": "θα μας πήγαιναν",
+              "phonetic": "",
+              "english": "they would have taken us"
+            },
+            {
+              "greek": "το πανηγύρι",
+              "phonetic": "",
+              "english": "( religious ) fair (n)"
+            },
+            {
+              "greek": "έξω από",
+              "phonetic": "",
+              "english": "outside"
+            },
+            {
+              "greek": "τοπικός/-ή/-ό",
+              "phonetic": "",
+              "english": "local"
+            },
+            {
+              "greek": "ντόπιος/-α/-ο",
+              "phonetic": "",
+              "english": "local"
+            },
+            {
+              "greek": "χορεύω",
+              "phonetic": "",
+              "english": "I dance"
+            },
+            {
+              "greek": "ενδιαφέρον",
+              "phonetic": "",
+              "english": "interesting"
+            },
+            {
+              "greek": "πού αλλού;",
+              "phonetic": "",
+              "english": "where else?"
+            },
+            {
+              "greek": "δείχνω/δείξω",
+              "phonetic": "",
+              "english": "I show/to show"
+            },
+            {
+              "greek": "κέρινος/-η/-ο",
+              "phonetic": "",
+              "english": "wax"
+            },
+            {
+              "greek": "το ομοίωμα",
+              "phonetic": "",
+              "english": "model (n), image, figure"
+            },
+            {
+              "greek": "συναρπαστικός/-ή/-ό",
+              "phonetic": "",
+              "english": "unique/exciting"
+            },
+            {
+              "greek": "αντίστοιχος/-η/-ο",
+              "phonetic": "",
+              "english": "corresponding"
+            },
+            {
+              "greek": "τρομερό!",
+              "phonetic": "",
+              "english": "awesome!"
+            },
+            {
+              "greek": "φανταστικό!",
+              "phonetic": "",
+              "english": "fantastic!"
+            },
+            {
+              "greek": "είχαμε κάνει έρευνα",
+              "phonetic": "",
+              "english": "we had done ( some ) research"
+            },
+            {
+              "greek": "η χώρα",
+              "phonetic": "",
+              "english": "country (f)"
+            },
+            {
+              "greek": "πριν να έρθουμε",
+              "phonetic": "",
+              "english": "before coming (lit. before we (to) come )"
+            },
+            {
+              "greek": "κιόλας",
+              "phonetic": "",
+              "english": "already"
+            },
+            {
+              "greek": "παραπάνω",
+              "phonetic": "",
+              "english": "more than"
+            },
+            {
+              "greek": "και δεν πέσαμε έξω!",
+              "phonetic": "",
+              "english": "and we didn’t miscalculate!, and we guessed right! (lit. and we didn’t fall outside! )"
+            },
+            {
+              "greek": "μακάρι να είχα κι εγώ την",
+              "phonetic": "",
+              "english": "I wish I had the same"
+            },
+            {
+              "greek": "ίδια εντύπωση",
+              "phonetic": "",
+              "english": "impression"
+            },
+            {
+              "greek": "η εντύπωση",
+              "phonetic": "",
+              "english": "impression (f)"
+            }
+          ]
+        },
+        {
+          "dialogue": [],
+          "vocab": [
+            {
+              "greek": "η αλήθεια",
+              "phonetic": "",
+              "english": "truth (f)"
+            },
+            {
+              "greek": "προσφέρω",
+              "phonetic": "",
+              "english": "I offer"
+            },
+            {
+              "greek": "παλιά πόλη",
+              "phonetic": "",
+              "english": "old town, old quarters"
+            },
+            {
+              "greek": "το Μαντράκι",
+              "phonetic": "",
+              "english": "the harbour for yachts, sailing or fishing boats"
+            },
+            {
+              "greek": "το ενυδρείο",
+              "phonetic": "",
+              "english": "aquarium (n)"
+            },
+            {
+              "greek": "ο χώρος",
+              "phonetic": "",
+              "english": "site (m) /space, area (m)"
+            },
+            {
+              "greek": "η Λίνδος",
+              "phonetic": "",
+              "english": "a village 54 km south of Rhodes City"
+            },
+            {
+              "greek": "ζηλεύω",
+              "phonetic": "",
+              "english": "I become jealous/I am jealous"
+            },
+            {
+              "greek": "κοσμοπολίτικος/-η/-ο",
+              "phonetic": "",
+              "english": "cosmopolitan"
+            },
+            {
+              "greek": "οποιασδήποτε άλλης",
+              "phonetic": "",
+              "english": "whatever else/other"
+            },
+            {
+              "greek": "η δισκοθήκη",
+              "phonetic": "",
+              "english": "disco/discotheque (f)"
+            },
+            {
+              "greek": "το νάιτ κλαμπ",
+              "phonetic": "",
+              "english": "nightclub (n)"
+            },
+            {
+              "greek": "η μπουάτ",
+              "phonetic": "",
+              "english": "nightclub with Greek music (f)"
+            },
+            {
+              "greek": "η μπυραρία",
+              "phonetic": "",
+              "english": "pub (f)"
+            },
+            {
+              "greek": "το μπαρ",
+              "phonetic": "",
+              "english": "bar (n)"
+            },
+            {
+              "greek": "ο κόσμος",
+              "phonetic": "",
+              "english": "people ( lit. cosmos) , crowd (m)"
+            },
+            {
+              "greek": "η κοσμοσυρροή",
+              "phonetic": "",
+              "english": "crowd, sea of people, throng"
+            },
+            {
+              "greek": "εύκολα",
+              "phonetic": "",
+              "english": "easily"
+            },
+            {
+              "greek": "το βιοτικό επίπεδο",
+              "phonetic": "",
+              "english": "standard of living (lit. the biotic level )"
+            },
+            {
+              "greek": "διασκεδάζω",
+              "phonetic": "",
+              "english": "I entertain (myself or others)"
+            },
+            {
+              "greek": "η δουλειά",
+              "phonetic": "",
+              "english": "work, job, employment"
+            },
+            {
+              "greek": "καλή τύχη!",
+              "phonetic": "",
+              "english": "good luck!"
+            },
+            {
+              "greek": "η παράταση",
+              "phonetic": "",
+              "english": "extension (f)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
